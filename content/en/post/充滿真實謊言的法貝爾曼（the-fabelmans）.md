@@ -1,0 +1,99 @@
+---
+title: '充滿真實謊言的法貝爾曼（The Fabelmans）'
+date: Sun, 19 Mar 2023 04:37:38 +0000
+draft: false
+tags: ['Movie', 'Movies', '中文 (台灣)', '電影']
+---
+
+/\*! elementor - v3.11.0 - 07-02-2023 \*/ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title\[class\*=elementor-size-\]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+
+充滿真實謊言的法貝爾曼 (The Fabelmans)
+---------------------------
+
+史蒂芬・史匹柏（Steven Spielberg）
+
+在法貝爾曼(The Fabelmans, 2022)當中，
+
+用兩個半小時的時間，
+
+試著與自己過去的傷痛和解。
+
+我們只需要投資150分鐘，
+
+在觀眾席感受一個電影人的苦悶；
+
+但史蒂芬的孤獨感，像是揮之不去的幽魂，
+
+註定要隨他走入棺材。
+
+![](https://www.aphorizm.com/wp-content/uploads/2023/03/fabel-6-1024x544.jpeg)
+
+這是我們看過最憤怒的史蒂芬。
+
+藝術與家庭兩種志願的拉扯，
+
+在他的生命中烙下無法復原的傷。
+
+史蒂芬曾在訪談中說，
+
+「不管喜不喜歡，身為一個導演，一定會把自己的一部分反映在電影中。」
+
+他或許是史上最成功的小丑。
+
+相較於他打造的逃避主義（Escapism）娛樂和浪漫主義，
+
+他個人的痛苦藏得好深。
+
+史蒂芬是高冷雪山寶座上的國王。
+
+藝術與家庭相互拉扯，
+
+藝術家便處於無止盡的痛苦當中。
+
+然而藝術是一種毒品，
+
+專治生來為之上癮者。
+
+如此，則只有在作品中創造樂趣，
+
+人生才能留下快樂。
+
+即使那種快樂只能存於膠卷，
+
+至少這種虛構的快樂，
+
+比真人活得更久。
+
+「人生不是電影。」戲中的一個角色，這樣對史匹柏說道。
+
+這是史匹柏給自己的警示；但我們聽完卻顫抖不已。
+
+多麽有娛樂性的一句悖論！
+
+在好萊塢，果然只有史匹柏能夠做到。
+
+為什麼我在看完這部電影後， 忍不住直稱他為史蒂芬？
+
+因為我好像認識了真實的他。
+
+一個用蜜糖包裝真理毒藥的孤獨行者。
+
+![](https://www.aphorizm.com/wp-content/uploads/2023/03/image-1024x576.png)
+
+從這個角度想，
+
+我們認識的每個人，
+
+何嘗不是如此？
+
+只有在說謊時，才說得出實話？
+
+如果你想看一部史蒂芬・史匹柏的電影，
+
+這部片有你要的一切，連他媽的天災、戰爭、爆破都有。
+
+但走出戲院時，你會懷疑，
+
+自己是否太過膚淺，
+
+從沒看懂這老人過去拍的每一部娛樂大片？
