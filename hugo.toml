@@ -1,25 +1,25 @@
 title = "Batmatt"
 baseURL = "https://batmatt79.github.io"
-languageCode = "en-us"
+languageCode = "zh-tw"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 omit_header_text = true
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 SectionPagesMenu = "main"
-Paginate = 5
+Paginate = 6
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
+  [languages.zh]
     title = "Batmatt79"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content/zh"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
+  [languages.en]
     title = "Batmatt79"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
@@ -33,7 +33,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "Work in progress."
   background_color_class = "bg-purple"
-  recent_posts_number = 3
+  recent_posts_number = 6
 
 [params.fontAwesome]
   KitURL = "https://kit.fontawesome.com/KitID.js"
