@@ -16,11 +16,7 @@ Sable 是英國公司 Shedworks 初試啼聲的遊戲，玩家需要控制主角
 
 > 我在風與未知之間進退兩難
 
-https://www.youtube.com/watch?v=ej5-CHAGr34
-
-
 {{< youtube ej5-CHAGr34 >}}
 
 視覺方面受到法國漫畫家 Jean Giraud aka Mœbius 的影響，有著鮮明的線條流動，也讓這次推薦的黑膠雙唱片組合有著獨特的粉紅色和紫色，無論對於喜歡 Sable 或 Japanese Breakfast 的朋友都是最棒的收藏。
 
-Sable Soundtrack - Vinyl ( 2LPs )

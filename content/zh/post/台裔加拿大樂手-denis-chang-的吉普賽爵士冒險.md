@@ -10,7 +10,7 @@ tags: ['Jazz', 'Music', '中文 (台灣)', '爵士']
 
 Denis 熱愛著名吉他手 Django Reinhardt，而 Django 所屬的吉普賽文化，一般被認為來自印度，幾經西遷之後和西方的文化無可避免的融合後誕生出獨特藝術與音樂。
 
-https://youtu.be/ORbzUMszVXA?si=xVEwDf6ajyZ7CByv
+{{< youtube ORbzUMszVXA >}}
 
 碰巧 Django 雖然是法裔吉普賽，但他成長的背景卻大多是居住在德國境內的 Sinti ( 德裔吉普賽）。時隔五十年的兩位吉他手，恰巧都生活在文化交界處。但傳統音樂科班背景的他，難以達到心目中純正的吉普賽感覺，所以他決定旅居各地，尋求大師的指導來學習箇中奧秘。
 

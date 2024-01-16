@@ -4,8 +4,7 @@ date: Sun, 30 Jul 2023 10:47:29 +0000
 draft: false
 tags: ['Movie', 'Movies', '中文 (台灣)', '藝術', '電影']
 ---
-
-https://www.youtube.com/watch?v=M1e5MbzCogo
+{{< youtube M1e5MbzCogo >}}
 
 Clerk 1 Soundtrack
 
@@ -25,7 +24,7 @@ _It just brings me to laughter_
 
 **如果讓主角來拍「 瘋狂店員 」會怎麼樣？**
 
-https://www.youtube.com/watch?v=k4zmXVol2iQ
+{{< youtube k4zmXVol2iQ >}}
 
 IGN interviews Kevin Smith
 
@@ -37,7 +36,7 @@ IGN interviews Kevin Smith
 
 **『 我今天甚至不該在這裡！ ( I’m not even supposed to be here today.) 』**
 
-https://www.youtube.com/watch?v=zD8K6P7Mq9g
+{{< youtube zD8K6P7Mq9g >}}
 
 I'm not even supposed to be here today.
 

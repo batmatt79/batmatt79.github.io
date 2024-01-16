@@ -9,7 +9,7 @@ tags: ['Music', 'Punk', '中文 (台灣)', '龐克']
 
 早在 1980 年代，美國不少樂團反對飲酒和吸毒的觀念已然成形。其中最具代表性曲目應屬數 Minor Threat 和他們在 1981 發行的七吋 EP：Razor Edge。原來這是一首歌名，並很快演變成整個次文化，也就是後來的 "直刃族＂，以下歌詞正是在抨擊各種毒品：
 
-https://www.youtube.com/watch?v=F5qsKiwnBSI
+{{< youtube F5qsKiwnBSI >}}
 
 _I'm a person just like you 我只是一個跟你一樣的人  
 But I've got better things to do 但我有更好的事可做  
@@ -21,13 +21,14 @@ Passin' out at all the shows 在陰影中昏過去
 I laugh at the thought of dropping ludes 我嘲笑那些打算使用白板的想法  
 I laugh at the throught of sniffing glue 我嘲笑那些打算吸強力膠的想法_
 
-https://www.youtube.com/watch?v=72BHwMIW914
+{{< youtube 72BHwMIW914 >}}
 
 直刃族的訴求在 Punk 界一直有其影響力，因此 1992 年 NOFX 也在專輯中翻唱過這首歌，只是不同於原曲只有 46 秒的快速有力，NOFX 把曲子改為 Jazz 編曲，並加上 Louis Armstrong 風格的嗓音。
 
 或許認同 Live fast, die young 的人們會有些失望，但正如 Youth of Today 的歌曲，那大概是場騙局。過好每一天，並且珍惜每一口呼吸，才能過上正向的人生。
 
-https://www.youtube.com/watch?v=TDct2d2alW8
+
+{{< youtube TDct2d2alW8 >}}
 
 _Live fast die young was just a fad  
 For fucking losers_

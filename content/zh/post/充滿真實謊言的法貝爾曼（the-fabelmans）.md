@@ -5,8 +5,6 @@ draft: false
 tags: ['Movie', 'Movies', '中文 (台灣)', '電影']
 ---
 
-/\*! elementor - v3.11.0 - 07-02-2023 \*/ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title\[class\*=elementor-size-\]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
-
 充滿真實謊言的法貝爾曼 (The Fabelmans)
 ---------------------------
 
@@ -25,8 +23,6 @@ tags: ['Movie', 'Movies', '中文 (台灣)', '電影']
 但史蒂芬的孤獨感，像是揮之不去的幽魂，
 
 註定要隨他走入棺材。
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/03/fabel-6-1024x544.jpeg)
 
 這是我們看過最憤怒的史蒂芬。
 
@@ -77,8 +73,6 @@ tags: ['Movie', 'Movies', '中文 (台灣)', '電影']
 因為我好像認識了真實的他。
 
 一個用蜜糖包裝真理毒藥的孤獨行者。
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/03/image-1024x576.png)
 
 從這個角度想，
 

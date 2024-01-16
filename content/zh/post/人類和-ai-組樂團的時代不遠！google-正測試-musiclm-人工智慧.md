@@ -11,7 +11,9 @@ tags: ['AI', 'Tech', '中文 (台灣)', '人工智慧', '生成式藝術']
 
 **MusicLM 現在能完成的事**
 
-https://www.youtube.com/watch?v=g6FRkAbZPQo
+
+
+{{< youtube g6FRkAbZPQo >}}
 
 在官方釋出的影片中，已經可以看到：
 

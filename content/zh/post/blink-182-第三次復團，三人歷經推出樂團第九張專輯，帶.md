@@ -9,9 +9,7 @@ Pop-punk 傳奇樂團 Blink-182 上次以同樣成員組合推出專輯雖已經
 
 尤其 Two & 3 幾乎是一個模子翻出來的，也和 Tom 的 Angels and Airwaves 歌曲幾乎一樣， 讓許多評論憤恨不平，但自己抄自己應該不叫抄襲，只是在音樂性上沒有重大突破，而且我還是要承認自己聽得很開心。
 
-https://www.youtube.com/watch?v=s\_hzK4DkNSI
-
-https://www.youtube.com/watch?v=Zg-nbmCvCDk
+{{< youtube Zg-nbmCvCDk >}}
 
 網友總戲稱說聽 Blink 要忘記自己的年齡，沒錯，不然一時可能難以接受 “ 我搞上你媽媽 ” 這類歌詞，經典青少年戲謔玩笑 20 多年來始終沒缺席。撇除惡趣味，專輯同名歌曲 ‘ One More Time ‘ 卻也讓不少樂迷感動流淚。
 
@@ -27,6 +25,6 @@ _Do I have to die to hear you say goodbye?_
 
 _我是否需要死亡才能聽見你跟我道別？_
 
-https://www.youtube.com/watch?v=9HXqs-fpSTU
+{{< youtube 9HXqs-fpSTU >}}
 
 當樂團在專輯最後一軌的 “ CHILDHOOD” 自問孩提時光在哪，很想跟所有朋友說：守護內心的純真，最好時光永遠與我們同在。

@@ -12,8 +12,10 @@ tags: ['Jazz', 'Music', '中文 (台灣)']
 
 Chet Baker 在 1954 年首張專輯 Chet Baker Sings 中詮釋名曲 My Funny Valentine 時，我們聽到的是無比柔情，讓人幾近融化然而經歷毒品摧殘又奮力重拾演奏生涯後，1987 年他的演出卻再再流露出抹不去的憂愁，而那段接近 4 分半鐘長的小號獨奏絕對是技驚四座，就算不是樂迷也不應該錯過。
 
-https://www.youtube.com/watch?v=QuMzUXPEPRM
-
-https://www.youtube.com/watch?v=UOEIQKczRPY
+{{< youtube QuMzUXPEPRM >}}
 
 在東京演出後不到一年，Chet 被發現陳屍於居住房間樓下的街頭上，房裡放置著古柯鹼以及海洛因。他始終無法完全戒除藥物和酒精，或許他沉溺於短暫的歡愉，也可能在尋求流光一閃的絢爛音符。
+
+{{< youtube UOEIQKczRPY >}}
+
+

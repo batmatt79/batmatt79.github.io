@@ -5,7 +5,7 @@ draft: false
 tags: ['AntiWar', 'Music', '中文 (台灣)']
 ---
 
-https://www.youtube.com/watch?time\_continue=212&v=59QxnaR8Jl4&embeds\_referring\_euri=https%3A%2F%2Fzinginstruments.com%2F&source\_ve\_path=Mjg2NjY&feature=emb\_logo
+{{< youtube 59QxnaR8Jl4 >}}
 
 Harry Patch (In memory of)
 

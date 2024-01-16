@@ -4,8 +4,7 @@ date: Fri, 03 Mar 2023 13:58:53 +0000
 draft: false
 tags: ['AntiWar', 'Music', 'Music', '中文 (台灣)']
 ---
-
-https://www.youtube.com/watch?v=n7GBeEVPMLQ
+{{< youtube n7GBeEVPMLQ >}}
 
 [Giovanni Mirabassi - Site Officiel](https://www.giovannimirabassi.com/bio)
 
@@ -124,7 +123,7 @@ Avanti! 曲目與背景
 
 ### 不分國籍，無關年代的反戰意識
 
-https://www.youtube.com/watch?v=86QTvwlZlkw
+{{< youtube 86QTvwlZlkw >}}
 
 數百年來，不計其數的政權隨著革命落幕而傾倒，但人類集體意識卻依然執著於征戰，並給了自己各種冠冕堂皇的理由，甚至連神都不能被倖免其中，著實令人悲傷。但在音樂之後，我們都能輕易體會到大多數人類對於和平的渴望。正因這樣，我私心把 Avanti! 列為最喜歡的 Giovanni Mirabassi 作品。
 
