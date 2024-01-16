@@ -1,6 +1,7 @@
 ---
 title: '私密處的保養也不能忽略 - 男生也能用的 Lip Intimate Cares 保養油'
 date: Wed, 13 Dec 2023 15:50:17 +0000
+featured_image: "images/silk_1200630.png"
 draft: false
 tags: ['Lifestyle', '中文 (台灣)', '情趣', '私密保養']
 ---

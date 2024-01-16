@@ -1,6 +1,7 @@
 ---
 title: '台裔加拿大樂手 Denis Chang 的吉普賽爵士冒險'
 date: Tue, 12 Dec 2023 13:16:02 +0000
+featured_image: "images/django_1200630.png"
 draft: false
 tags: ['Jazz', 'Music', '中文 (台灣)', '爵士']
 ---

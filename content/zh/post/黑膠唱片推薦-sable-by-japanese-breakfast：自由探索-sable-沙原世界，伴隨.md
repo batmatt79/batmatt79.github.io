@@ -1,6 +1,7 @@
 ---
 title: '黑膠唱片推薦 - Sable by Japanese Breakfast：自由探索 Sable 沙原世界，伴隨孤獨卻平靜的樂聲氛圍'
 date: Thu, 07 Dec 2023 15:15:42 +0000
+featured_image: "images/Sable_1200630.png"
 draft: false
 tags: ['Music', 'Vinyl', '中文 (台灣)', '音樂', '黑膠']
 ---

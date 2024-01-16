@@ -1,6 +1,7 @@
 ---
 title: 'Meta 進入聯邦宇宙的第一步：Mastodon 可以單向追蹤 Threads'
 date: Sat, 16 Dec 2023 15:10:46 +0000
+featured_image: "images/universe_1200630.png"
 draft: false
 tags: ['Fediverse', 'Tech', 'Tech', '中文 (台灣)']
 ---

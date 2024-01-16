@@ -1,6 +1,7 @@
 ---
 title: 'Chet Baker 的演奏傑作：1987 於日本東京昭和女子大學，歷經滄桑後的現場演出終成絕響'
 date: Thu, 14 Dec 2023 15:25:13 +0000
+featured_image: "images/chetbaker_1200630.png"
 draft: false
 tags: ['Jazz', 'Music', '中文 (台灣)']
 ---

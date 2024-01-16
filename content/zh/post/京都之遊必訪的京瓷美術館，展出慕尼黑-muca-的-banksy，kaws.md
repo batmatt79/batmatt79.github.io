@@ -1,7 +1,8 @@
 ---
 title: '京都之遊必訪的京瓷美術館，展出慕尼黑 MUCA 的 Banksy，Kaws，Invader 等都會藝術家展品'
 date: Fri, 01 Dec 2023 15:53:03 +0000
-draft: false
+featured_image: "images/kyocera_1200630.png"
+draft: true
 tags: ['Art', 'Art', '中文 (台灣)', '藝術']
 ---
 
