@@ -5,13 +5,14 @@ draft: false
 tags: ['AntiWar', 'Music', '中文 (台灣)']
 ---
 
-[Dakh Daughters: Tiny Desk Meets globalFEST 2023](https://www.youtube.com/watch?v=fdMMKAVFp1k)
+**Dakh Daughters: Tiny Desk Meets globalFEST 2023**
 
-https://www.youtube.com/watch?v=fdMMKAVFp1k
+{{<  youtube fdMMKAVFp1k >}}
 
 **The human toll of the conflict is staggering.**
 
 Political leaders worldwide should be ashamed of themselves as the first anniversary of the Russo-Ukrainian War approaches. It is a tragedy that the people and soldiers always lose, regardless of which side claims victory. Shockingly, according to Reuters' data, almost 15,000 people have died, 60,000 have been injured, and over 1.3 million people have been forced to flee their homes due to the ongoing conflict.
+
 
 **Genuine voice of Anti-war.**
 

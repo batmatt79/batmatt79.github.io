@@ -1,8 +1,8 @@
 ---
-title: "En"
+title: "Batmatt79"
 
-description: "Fuggeddabouit"
+description: "Self-ownership."
 cascade:
-  featured_image: '/images/billevans_1200630.png'
+  featured_image: 
 ---
 
