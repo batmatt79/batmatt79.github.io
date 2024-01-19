@@ -1,4 +1,4 @@
-title = "Batmatt79"
+title = "Aphorizm"
 baseURL = "https://batmatt79.github.io"
 languageCode = "en-us"
 theme = "ananke"
@@ -12,12 +12,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.zh]
-    title = "Batmatt79"
+    title = "Aphorizm"
     weight = 1
     contentDir = "content/zh"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.en]
-    title = "Batmatt79"
+    title = "Aphorizm"
     weight = 2
     contentDir = "content/en"
 
