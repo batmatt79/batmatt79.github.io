@@ -1,13 +1,13 @@
-title = "Batmatt"
+title = "Batmatt79"
 baseURL = "https://batmatt79.github.io"
-languageCode = "zh-tw"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+languageCode = "en-us"
+theme = "ananke"
 resourceDir = "../resources"
 omit_header_text = true
 DefaultContentLanguage = "zh"
 SectionPagesMenu = "main"
 Paginate = 6
-googleAnalytics = ""
+googleAnalytics = "G-6B50W0P5K0"
 enableRobotsTXT = true
 
 [languages]
