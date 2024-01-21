@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fediverse on Aphorizm</title>
+    <link>https://batmatt79.github.io/tags/fediverse/</link>
+    <description>Recent content in Fediverse on Aphorizm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 16 Dec 2023 15:10:46 +0000</lastBuildDate>
+    <atom:link href="https://batmatt79.github.io/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta 進入聯邦宇宙的第一步：Mastodon 可以單向追蹤 Threads</title>
+      <link>https://batmatt79.github.io/post/meta-%E9%80%B2%E5%85%A5%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5mastodon-%E5%8F%AF%E4%BB%A5%E5%96%AE%E5%90%91%E8%BF%BD%E8%B9%A4-threads/</link>
+      <pubDate>Sat, 16 Dec 2023 15:10:46 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/meta-%E9%80%B2%E5%85%A5%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5mastodon-%E5%8F%AF%E4%BB%A5%E5%96%AE%E5%90%91%E8%BF%BD%E8%B9%A4-threads/</guid>
+      <description>Threads 開始踏入聯邦宇宙世界&#xA;今年七月 Meta 的 Threads 聲勢浩蕩的發布給所有用戶註冊，但起初還是一個封閉的社群網路平台，但他們承諾未來將可以透過名為 ActivityPub 的協定來和其他網路溝通，這件事居然真的發生了。&#xA;Threads 上面的發文，可以在 Mastodon 等 Fediverse 去中心化平台被發現並且互動，但 Mastodon 用戶還無法追蹤 Threads 的帳號。大家現在已經可以在 Mastodon 上被找到並且追蹤 Instagram CEO Adam Mosseri，他表示 2024 會加入更多聯邦宇宙相關功能。&#xA;期望脫離社群公司寡占的機會早日到來&#xA;最重要的是未來可把自己的追蹤者一起帶到別的平台，這是人們能夠脫離科技巨頭掌握的少數希望之一。常常聽到諸如此類的抱怨， Twitter 上烏煙瘴氣，卻因為人脈網絡都被綁在上面，無法完全放棄。&#xA;中心化平台跨足 Fediverse 的發展中，必定會遇到更多問題，但相信在 Threads 踏出這一步之後，去中心可以成為社群網路未來五年發展的方向。如果 X ( Twitter ) 也跟進，那麼事情將變得非常有趣。</description>
+    </item>
+  </channel>
+</rss>

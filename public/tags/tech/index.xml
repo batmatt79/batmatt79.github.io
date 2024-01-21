@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Aphorizm</title>
+    <link>https://batmatt79.github.io/tags/tech/</link>
+    <description>Recent content in Tech on Aphorizm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 16 Dec 2023 15:10:46 +0000</lastBuildDate>
+    <atom:link href="https://batmatt79.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta 進入聯邦宇宙的第一步：Mastodon 可以單向追蹤 Threads</title>
+      <link>https://batmatt79.github.io/post/meta-%E9%80%B2%E5%85%A5%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5mastodon-%E5%8F%AF%E4%BB%A5%E5%96%AE%E5%90%91%E8%BF%BD%E8%B9%A4-threads/</link>
+      <pubDate>Sat, 16 Dec 2023 15:10:46 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/meta-%E9%80%B2%E5%85%A5%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5mastodon-%E5%8F%AF%E4%BB%A5%E5%96%AE%E5%90%91%E8%BF%BD%E8%B9%A4-threads/</guid>
+      <description>Threads 開始踏入聯邦宇宙世界&#xA;今年七月 Meta 的 Threads 聲勢浩蕩的發布給所有用戶註冊，但起初還是一個封閉的社群網路平台，但他們承諾未來將可以透過名為 ActivityPub 的協定來和其他網路溝通，這件事居然真的發生了。&#xA;Threads 上面的發文，可以在 Mastodon 等 Fediverse 去中心化平台被發現並且互動，但 Mastodon 用戶還無法追蹤 Threads 的帳號。大家現在已經可以在 Mastodon 上被找到並且追蹤 Instagram CEO Adam Mosseri，他表示 2024 會加入更多聯邦宇宙相關功能。&#xA;期望脫離社群公司寡占的機會早日到來&#xA;最重要的是未來可把自己的追蹤者一起帶到別的平台，這是人們能夠脫離科技巨頭掌握的少數希望之一。常常聽到諸如此類的抱怨， Twitter 上烏煙瘴氣，卻因為人脈網絡都被綁在上面，無法完全放棄。&#xA;中心化平台跨足 Fediverse 的發展中，必定會遇到更多問題，但相信在 Threads 踏出這一步之後，去中心可以成為社群網路未來五年發展的方向。如果 X ( Twitter ) 也跟進，那麼事情將變得非常有趣。</description>
+    </item>
+    <item>
+      <title>猜猜看 Facebook 用了你的照片訓練 AI 模型後，會給分你多少錢？</title>
+      <link>https://batmatt79.github.io/post/%E7%8C%9C%E7%8C%9C%E7%9C%8B-facebook-%E7%94%A8%E4%BA%86%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87%E8%A8%93%E7%B7%B4-ai-%E6%A8%A1%E5%9E%8B%E5%BE%8C%E6%9C%83%E7%B5%A6%E5%88%86%E4%BD%A0%E5%A4%9A/</link>
+      <pubDate>Sun, 10 Dec 2023 14:14:46 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E7%8C%9C%E7%8C%9C%E7%9C%8B-facebook-%E7%94%A8%E4%BA%86%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87%E8%A8%93%E7%B7%B4-ai-%E6%A8%A1%E5%9E%8B%E5%BE%8C%E6%9C%83%E7%B5%A6%E5%88%86%E4%BD%A0%E5%A4%9A/</guid>
+      <description>答案揭曉：0，zero，none，零。&#xA;兩天前，Facebook 母公司 Meta 發表 了人工智能的圖片生成服務 Imagine，其他公司類似的服務還有 Gemini、Dall-E、Midjourney 和 Stable Diffustion 等，基本就是輸入一段描述，AI 就會幫你生成符合的圖片。而在 Facebook 的使用情境，用戶將可以在 Messenger/ Instagram/ Whatsapp 上直接呼叫 AI 來產生圖片，或者建立一個聊天室和 AI 一對一對話等。&#xA;但是如何辦到的？根據 報導 指出，Facebook 與 Instagram 用戶的照片來訓練模型。任何設定為公開的資料（照片 + 文字）都會被用來建立 AI，未來使用上述任何 Facebook AI 的互動紀錄也會被用於優化。&#xA;相對於 OpenAI 和 Shutterstock 簽訂授權合約的作法，Google 先前則是爆發出未取得同意就大量爬取網上資料。顯然 Facebook 也是佔了使用者的便宜，存在伺服器裡的資料似乎一點都不值錢。這就是免費的代價，當人們爭先恐後上傳自己生活中的一切以換取流量時，科技巨頭們早已開始狠狠利用大家。&#xA;看完以上這些，你還很想當網紅？</description>
+    </item>
+    <item>
+      <title>國王要發起革命？Meta 最新社交網絡 Threads 承諾加入去中心化協定，讓用戶更能掌握自己的資料</title>
+      <link>https://batmatt79.github.io/post/%E5%9C%8B%E7%8E%8B%E8%A6%81%E7%99%BC%E8%B5%B7%E9%9D%A9%E5%91%BDmeta-%E6%9C%80%E6%96%B0%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1-threads-%E6%89%BF%E8%AB%BE%E5%8A%A0%E5%85%A5%E5%8E%BB%E4%B8%AD/</link>
+      <pubDate>Sun, 09 Jul 2023 14:32:58 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E5%9C%8B%E7%8E%8B%E8%A6%81%E7%99%BC%E8%B5%B7%E9%9D%A9%E5%91%BDmeta-%E6%9C%80%E6%96%B0%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1-threads-%E6%89%BF%E8%AB%BE%E5%8A%A0%E5%85%A5%E5%8E%BB%E4%B8%AD/</guid>
+      <description>Threads 斬獲近 9000 萬用戶，但依舊收集十四種用戶個人資料&#xA;Intagram 推出以文字為主的社交網絡平台 Threads，憑藉著帳戶綁定的優勢，很快就獲得大量用戶。試玩過後，發現大家都滿躍躍欲試，不少人分享輕鬆的 Memes、更有富研究精神的網友分析平台演算法。&#xA;但目前來看，Threads 和 Twitter 可說沒有很大的不同。如果大家去 App Store 下載時有留意，可以發現 Threads 收集的用戶資料依然多達 14 種，包括金融、健康、瀏覽紀錄、搜尋歷史、地理位置、聯絡人、購物紀錄等都赫然在列（ 就連號稱比較安全的 WhatsApp 都有九種 ）。表示它的商業模式依然是傳統社交媒體的廣告銷售，也就是 『 盡可能把用戶留在平台，收集更多個人資料，然後向有推廣需求的廣告主收取費用 』。&#xA;Twitter 多年來一直都是這樣運作，但營收一直不見起色，所以也才有 Elon Musk 現在的大刀闊斧。要是 Threads 走這條老路，難保不會再度陷入困境。顯然 Threads 需要一點不一樣的玩法，才能開創新局。&#xA;沒有 Threads 帳號，也可以看 Threads 平台中的內容？&#xA;等等，這標題究竟什麼意思？且聽我道來。&#xA;概念就跟用手機打電話一樣，就算朋友跟我們用不同的電信公司，也可以互相打電話。相同的道理也能運用在社群網路上：只要透過 W3C 協會所制定的 ActivityPub，就有可能達成這個『 網外互打 』的 Fediverse 聯邦社群願景。（ 先前本站也稍微介紹過這個議題，有興趣的朋友請看 這篇。）&#xA;而且根據 Instagram 官方說法，雖然現在 Threads 還沒有支援聯邦網路，但他們會優先開發此功能。看起來他們是認真的，Instagram 的 隱私政策 上已經出現了相關內容。&#xA;在 Threads 支援聯邦網路之後，用戶甚至可以選擇把資料轉移到其他平台。這絕對是個創舉！想像一下，把 Facebook 的資料移到 Twitter？這在過往雖然幾乎不可能發收，不過相對的，未來 Threads 之外的用戶，也能夠訂閱 Threads 上的內容，所以理論上各個平台的用戶可以交流互動，為社群媒體帶來全新榮景，而每家公司也會競相提供更優質的服務。&#xA;迎接未來：不妨先玩玩看 Mastodon 或 BlueSky</description>
+    </item>
+    <item>
+      <title>人類和 AI 組樂團的時代不遠！Google 正測試 MusicLM 人工智慧</title>
+      <link>https://batmatt79.github.io/post/%E4%BA%BA%E9%A1%9E%E5%92%8C-ai-%E7%B5%84%E6%A8%82%E5%9C%98%E7%9A%84%E6%99%82%E4%BB%A3%E4%B8%8D%E9%81%A0google-%E6%AD%A3%E6%B8%AC%E8%A9%A6-musiclm-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/</link>
+      <pubDate>Sun, 21 May 2023 13:52:02 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E4%BA%BA%E9%A1%9E%E5%92%8C-ai-%E7%B5%84%E6%A8%82%E5%9C%98%E7%9A%84%E6%99%82%E4%BB%A3%E4%B8%8D%E9%81%A0google-%E6%AD%A3%E6%B8%AC%E8%A9%A6-musiclm-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/</guid>
+      <description>不是回答問題，而是生成音樂&#xA;今年一月 Google 發表了名為 「 MusicLM 」的人工智慧，它可以接受文字和音樂提示來創作音樂。比方說，收到類似「 適合晚餐派對的靈魂味爵士樂 」或是「 祥和的小提琴旋律配上破音的吉他伴奏 」這樣的提示後，AI 將產生兩段音樂供選擇，並且根據使用者的選擇來優化人工智能模型。如果不想用文字、也可以提供一段音訊，因此不需演奏樂器也能透過哼唱和 AI 溝通。&#xA;MusicLM 現在能完成的事&#xA;在官方釋出的影片中，已經可以看到：&#xA;AI 接收到人類的歌唱後，將其轉換為樂器演奏，影片中的例子是薩克斯風。 人類演奏實體音樂的同時，AI 會建議一些可能適合產生的音樂曲風。 AI 接收到人類的歌唱後，將其轉換為薩克斯風的演奏。產生伴奏音樂。假設你是一個樂手，一時找不到樂團成員，AI 就可以幫你產生一些伴奏音樂。 另外一個有趣的實驗，則是用文字描述名畫，並提供給 MusicLM 來產生音樂，包含達利和馬諦斯等著名畫家的作品。&#xA;對未來音樂創作的想像&#xA;MusicLM 正處在開發階段，還不是成熟的人工智慧，但音樂愛好者已經開始想像 AI 能夠如何幫助人類，這邊有些天馬行空的個人想法：&#xA;既然可以伴奏，也能夠辨識音樂的風格和情緒，那能否根據樂手的演奏來即時配合？ 接受樂手的語音指示：「 變換和弦 」、「 慢ㄧ點！」⋯？ 延伸特定歌曲：「給我 20 個類似 xxx 歌手 ooo 曲目的節奏，然後加上這段旋律。」？ 和音樂軟體合作。要是可以把 MusicLM 產生的音樂分軌輸出，然後再匯入 Ableton 編輯，可用性不知怎樣？或者乾脆內建在 Ableton 裡面然後收個授權費？ MusicLM 已開放給有興趣的用戶去 AI Test Kitchen 登記 beta。想試聽看看 MusicLM 產生的音樂也可到這邊。</description>
+    </item>
+    <item>
+      <title>小心被跟蹤！Android 終於內建防止惡意 Airtag 追蹤警示，APPLE 和 GOOGLE 必須強化合作</title>
+      <link>https://batmatt79.github.io/post/%E5%B0%8F%E5%BF%83%E8%A2%AB%E8%B7%9F%E8%B9%A4android-%E7%B5%82%E6%96%BC%E5%85%A7%E5%BB%BA%E9%98%B2%E6%AD%A2%E6%83%A1%E6%84%8F-airtag-%E8%BF%BD%E8%B9%A4%E8%AD%A6%E7%A4%BAapple/</link>
+      <pubDate>Sun, 14 May 2023 14:21:21 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E5%B0%8F%E5%BF%83%E8%A2%AB%E8%B7%9F%E8%B9%A4android-%E7%B5%82%E6%96%BC%E5%85%A7%E5%BB%BA%E9%98%B2%E6%AD%A2%E6%83%A1%E6%84%8F-airtag-%E8%BF%BD%E8%B9%A4%E8%AD%A6%E7%A4%BAapple/</guid>
+      <description>Airtag：便利工具，但也有黑暗地帶&#xA;在鑰匙或是重要的東西上加一個 AirTag ，就不容易弄丟，本來是好事一樁，但惡意人士常常把他用來跟蹤別人。如果被追蹤的人，剛好也是用 iPhone，那問題比較不嚴重些，因為 iPhone 會自動偵測不明 AirTag 並且通知用戶。只要有不認識的 AirTag 跟著用戶 10 分鐘以上，就會看到類似以下的通知：&#xA;Android 用戶一直暴露在風險之下，直到現在終於加入自動追蹤&#xA;相較於 iOS，Android 用戶就比較不容易發現惡意 AirTag ，因為系統不會自動追蹤並且通知用戶。當然人們可以下載 Apple 在 Android 上面推出的 App：「 偵測追蹤器 」（ Tracker Detect ），來掃描附近有沒有 AirTag 的跟蹤，但是必須由使用者自行觸發。&#xA;也就是說，你要自己覺得有被跟蹤，或者是警覺性足夠，常常打開這個 App 看看附近有沒有疑似跟蹤的跡象，而且根據 BBC 在 2022 的報導、該 App 下載量大概只有 10萬次（ 而 Android 有三十億活躍用戶），所以顯然這還不夠好。&#xA;好消息是， Android 終於在 2023 的 5 月 10 日，推出不明追蹤裝置的警示（ 官方連結在此 ），就跟 iOS 針對不明 AirTag 的偵測一樣，只要疑似被不認識的人跟蹤，就會收到通知。&#xA;兩大巨頭開始合作，但還需要更有效率&#xA;這個 Android 功能，當然需要 Apple 和 Google 合作才能完成。在競爭市佔率之餘，兩家公司還算是有把消費者安全放在心上。然而， AirTag 問市已經兩年，不知道已經有多少 Android 用戶活在隱私疑慮之下，受害人數更是難以估計。除了期待科技公司彼此消弭隔閡，更要用戶自己更加小心生活的安全，並且加強隱私意識和資料防護。</description>
+    </item>
+    <item>
+      <title>戰爭造就了諾貝爾獎？</title>
+      <link>https://batmatt79.github.io/post/%E6%88%B0%E7%88%AD%E9%80%A0%E5%B0%B1%E4%BA%86%E8%AB%BE%E8%B2%9D%E7%88%BE%E7%8D%8E/</link>
+      <pubDate>Sun, 02 Apr 2023 14:52:17 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E6%88%B0%E7%88%AD%E9%80%A0%E5%B0%B1%E4%BA%86%E8%AB%BE%E8%B2%9D%E7%88%BE%E7%8D%8E/</guid>
+      <description>諾貝爾家族背景與獎項起源 每當人們聽到「諾貝爾奬」的名號，總覺得異常偉大。我自小也不疑有他，直到長大一些、才明白真實世界原來不是非黑即白。雖然對於對於人類發展的貢獻無庸置疑，但諾貝爾家族跟戰爭難脫關係。&#xA;諾貝爾 Alfred Nobel 的父親 Immanuel Nobel 長期在俄國的聖彼得堡工作，專為俄國軍方生產魚雷，也就發了戰爭財。大概是耳濡目染之故，諾貝爾便對於爆裂物產生興趣，最後亦是靠著研製炸藥獲得了驚人財富。&#xA;然而，諾貝爾的兄長不幸於一次炸藥實驗意外中喪生，但當時報社誤以為是諾貝爾本人死亡，據傳還刊出了 「 販售死亡的商人已經死去 」這類內容，讓諾貝爾意識到社會對他的觀感不佳、遂想要做出改變，在過世前決定用自己大部分的財產建立了當今的諾貝爾獎。另有一說，則是他受到了和平主義的親密朋友，貝爾塔·馮·蘇特納（ Bertha von Suttner）影響才決定創立該獎項。&#xA;諾貝爾獎項之爭議 撇除諾貝爾家族的背景不談，獎項本身也不乏爭議，尤其是在和平獎方面。&#xA;2009 年得主美國總統 Barack Obama，但他當時才上任不到一年，美國對阿富汗和伊拉克的戰爭也還在擴大，尚未對和平做出顯著貢獻，歐巴馬本人卸任後也表示不知為何得獎。&#xA;1991 年得主翁山蘇姬，在掌權後也拒絕譴責緬甸軍方的種族滅絕罪行，可謂跌落神壇。&#xA;1973 得主是美國國務卿季辛吉 Henry Kissinger，因參與越戰停火協議而獲獎，但他其實因為推動美國轟炸越南及其鄰國而備受譴責。&#xA;以上僅為較受關注的部分爭議，完整清單還不只如此。像是印度聖雄甘地，雖然五次獲得提名，但最終也沒有獲獎，諾貝爾和平獎在日後也表示沒有能頒獎給甘地是非常遺憾的。&#xA;虛名和榮耀只一線之隔？ 獲獎的得主固然會感到高興，但常常不像是常人想像的那樣興奮。&#xA;美國歌手巴布狄倫 Bob Dylan，他的歌曲如 “ Blowing’ in the Wind ” 、 ” The Times They Are a-Changing “ 被視為反戰象徵，在 2016 年獲得了諾貝爾文學獎，但委員會在兩週的嘗試後都無法連絡上本人，也無法確定他是否要接受該獎，引起了輿論抨擊 Bob Dylan、稱他「 不尊重 」。或許是不想背負罵名，最後他才提出要求、希望在沒有記者的情況下領獎。&#xA;1997 年的諾貝爾化學獎 John Walker，顯然不太在乎這些頭銜，只是在簡歷上輕描淡寫。 ；同樣是化學獎得主的 2009 年 Venkatraman Ramakrishnan，甚至久久都沒有在個人網站寫上諾貝爾獎得主，多年後才加上寥寥幾筆。實驗室學生說他得獎隔天沒有慶祝，只是照常做實驗而已。&#xA;是戰爭推動技術發展，還是技術發展被帶進科技？ 如果沒有戰爭，難道科技發展會不如今天？凡事往往不盡完美。料想很多人看完本文之後，會說我思想偏激，豈有資格懷疑諾貝爾先生創立獎項的偉大情操。但我的目的不是反對諾貝爾獎，而獎項百年來對於人類的貢獻有目共睹、也不可能被抹滅。&#xA;但人們檢視事物的標準越來越高：身邊的手機、球鞋和衣服不能來自血汗工廠、反猶太言論的品牌會被全球市場抵制、路名和地名不能和威權體制扯上關係、廣告不該歧視特定族群或性向⋯⋯無不是社會在改變的證據。正因如此，百年歷史的諾貝爾獎在文明發展的地位，也值得大家稍加思考才是。</description>
+    </item>
+    <item>
+      <title>沒有廣告的社群網路聯邦 - Mastodon 與分散式社群平台</title>
+      <link>https://batmatt79.github.io/post/%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84%E7%A4%BE%E7%BE%A4%E7%B6%B2%E8%B7%AF%E8%81%AF%E9%82%A6-mastodon-%E8%88%87%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E7%BE%A4%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Thu, 16 Mar 2023 08:44:15 +0000</pubDate>
+      <guid>https://batmatt79.github.io/post/%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84%E7%A4%BE%E7%BE%A4%E7%B6%B2%E8%B7%AF%E8%81%AF%E9%82%A6-mastodon-%E8%88%87%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E7%BE%A4%E5%B9%B3%E5%8F%B0/</guid>
+      <description>歷史軌跡：社群網路發展二十年，是否需探索新的可能？ 現行的主要社群網站大約從 2005 年左右開始發展，當然此前有 MySpace 等案例，但最後沒有存活下來。而 Twitter 在 2006 年創立， Facebook 則是 2004 年發跡，營運都已經超過十六年並持續宰制社群網站，但宴席並非永久。&#xA;種種跡象都顯示「用『 免費 』吸引大量用戶，並向廣告主銷售其注意力 」的商業模式正面臨諸多挑戰：隨意對用戶進行情緒實驗、個人資料隱私醜聞、雇用廉價勞工審查言論、特定目的政治操作、壟斷與不公平競爭、降低觸及率（ 俗稱的 Shadow Banning ）等，都是科技巨頭必須正視的問題。&#xA;正當 Elon Musk 對 Twitter 進行像是 Thanos「 彈指 」的大規模裁員後，雖然有效削減公司開支、有望讓公司的現金流轉正，但也流失了可觀數量的廣告主。同時用戶體驗也開始備受詬病，其中最令人啼笑皆非的，是許多用戶反映不斷看到 Elon Musk 的文章，儘管他們並沒有追蹤這個億萬富翁。而 Facebook 也沒有好到哪去，除了將進行第二波萬人大裁員之外，2021 改名宣示進軍 Metaverse 後，卻慘遭滑鐵盧，兩年來股價可說是腰斬。那麽，社群網站該何去何從？&#xA;未來發展：由「 單一中心 」 轉為「分散式組織 」 在用戶和廣告主開始撤離 Twitter/ Facebook 的現在，2016 年創立的 Mastodon 社群平台頓時成為了一個熱門選擇⋯⋯等等，那是什麼？&#xA;簡單講，Mastodon 就是 「 沒那麼極權的 Twitter 」，任何人只要願意都能架設自己的伺服器。而伺服器和伺服器間，會有一些相同的規範。而各個伺服器的管理者，則可以制定更細節的規則，近乎像是「聯邦」的概念。更重要的是，在 Mastodon 中，你不會看到廣告（ 比較不容易被推銷 ），所有文章也都是依照發佈時間排序（ 不會被演算法影響 ）。&#xA;除此之外，也有和 Mastodon 一樣屬於聯邦架構的社群平台，他們可以透過名曰 ActivityPub 的協定來溝通，形成更大規模的網絡。一些知名的網站也打算加入 ActivitityPub，像是 Medium、Tumblr 等。Twitter 的原創辦人 Jack Dorsey 先前也創立了 BlueSky，另一個分散式的社群網路，也獲得了不少關注與討論。如此盛況，有些合久必分的味道。</description>
+    </item>
+  </channel>
+</rss>

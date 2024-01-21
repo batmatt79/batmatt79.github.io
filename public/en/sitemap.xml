@@ -2,101 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://batmatt79.github.io/</loc>
-    <lastmod>2023-12-26T21:55:20+08:00</lastmod>
+    <loc>https://batmatt79.github.io/en/post/anti-war-remarkable-ukrainian-band-dakh-daughters/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://batmatt79.github.io/en/tags/antiwar/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://batmatt79.github.io/fr/"
+                hreflang="zh"
+                href="https://batmatt79.github.io/tags/antiwar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://batmatt79.github.io/en/tags/antiwar/"
+                />
+  </url><url>
+    <loc>https://batmatt79.github.io/en/tags/music/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://batmatt79.github.io/tags/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batmatt79.github.io/en/tags/music/"
+                />
+  </url><url>
+    <loc>https://batmatt79.github.io/en/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://batmatt79.github.io/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batmatt79.github.io/en/"
+                />
   </url><url>
-    <loc>https://batmatt79.github.io/post/20231226/</loc>
-    <lastmod>2023-12-26T21:55:20+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>https://batmatt79.github.io/en/tags/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://batmatt79.github.io/fr/tags/"
+                hreflang="zh"
+                href="https://batmatt79.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://batmatt79.github.io/tags/"
+                href="https://batmatt79.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <loc>https://batmatt79.github.io/en/tags/%E4%B8%AD%E6%96%87-%E5%8F%B0%E7%81%A3/</loc>
+    <lastmod>2023-02-24T07:40:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://batmatt79.github.io/tags/%E4%B8%AD%E6%96%87-%E5%8F%B0%E7%81%A3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batmatt79.github.io/en/tags/%E4%B8%AD%E6%96%87-%E5%8F%B0%E7%81%A3/"
+                />
   </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/post/</loc>
+    <loc>https://batmatt79.github.io/en/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://batmatt79.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://batmatt79.github.io/fr/categories/"
+                hreflang="zh"
+                href="https://batmatt79.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://batmatt79.github.io/categories/"
+                href="https://batmatt79.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://batmatt79.github.io/contact/</loc>
+    <loc>https://batmatt79.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://batmatt79.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batmatt79.github.io/en/categories/"
+                />
   </url>
 </urlset>
