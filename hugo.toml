@@ -41,3 +41,17 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://instagram.com/batmatt79"
+
+[[params.ananke_socials]]
+name = "rss"
+url = "/index.xml"
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
+[services]
+  [services.rss]
+    limit = 42
