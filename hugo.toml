@@ -1,5 +1,5 @@
 title = "Aphorizm"
-baseURL = "https://batmatt79.github.io"
+baseURL = "https://aphorizm.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -12,12 +12,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.zh]
-    title = "Aphorizm ( 中文 )"
+    title = "Aphorizm"
     weight = 1
     contentDir = "content/zh"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.en]
-    title = "Aphorizm ( English )"
+    title = "Aphorizm"
     weight = 2
     contentDir = "content/en"
 
