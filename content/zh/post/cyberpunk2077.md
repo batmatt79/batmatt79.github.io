@@ -2,7 +2,7 @@
 title = '玩過 Cyberpunk2077 （幾乎）所有任務之後的人生大哉問'
 date = 2024-01-23T11:47:19+08:00
 featured_image = 'images/cyberpunk_1200630.png'
-draft = true
+draft = false
 tags = ['cyberpunk','gaming','遊戲']
 +++
 
