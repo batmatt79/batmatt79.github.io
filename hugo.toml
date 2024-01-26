@@ -29,10 +29,10 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "images/fav_icon.jpg"
   site_logo = ""
   description = "Self-ownership"
-  background_color_class = "bg-purple"
+  background_color_class = "bg-near-black"
   recent_posts_number = 6
 
 [params.fontAwesome]
