@@ -32,7 +32,7 @@ enableRobotsTXT = true
   favicon = "images/fav_icon.jpg"
   site_logo = ""
   description = "Self-ownership"
-  background_color_class = "bg-near-black"
+  background_color_class = "bg-prince-purple"
   recent_posts_number = 6
 
 [params.fontAwesome]
