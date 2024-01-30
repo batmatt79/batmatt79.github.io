@@ -2,10 +2,10 @@
 other = "更多"
 
 [allTitle]
-other = "所有 {{.Title }}"
+other = "所有文章"
 
 [recentTitle]
-other = "最近 {{.Title }}"
+other = "最近文章"
 
 [readMore]
 other = "繼續閱讀"

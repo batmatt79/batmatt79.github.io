@@ -1,20 +1,21 @@
 title = "Aphorizm"
 baseURL = "https://aphorizm.com"
-languageCode = "en-us"
+languageCode = "zh-tw"
 theme = "ananke"
 resourceDir = "../resources"
 omit_header_text = true
-DefaultContentLanguage = "zh"
+DefaultContentLanguage = "zh-tw"
 SectionPagesMenu = "main"
 Paginate = 6
 googleAnalytics = "G-6B50W0P5K0"
 enableRobotsTXT = true
 
+
 [languages]
-  [languages.zh]
+  [languages.zh-tw]
     title = "Aphorizm"
     weight = 1
-    contentDir = "content/zh"
+    contentDir = "content/zh-tw"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.en]
     title = "Aphorizm"
