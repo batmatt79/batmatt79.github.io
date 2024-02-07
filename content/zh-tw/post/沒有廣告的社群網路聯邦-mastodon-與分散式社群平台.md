@@ -2,7 +2,7 @@
 title: '沒有廣告的社群網路聯邦 - Mastodon 與分散式社群平台'
 date: Thu, 16 Mar 2023 08:44:15 +0000
 draft: false
-tags: ['Tech', 'Tech', '中文 (台灣)']
+tags: ['Tech', 'fediverse', '聯邦宇宙']
 ---
 
 ### 歷史軌跡：社群網路發展二十年，是否需探索新的可能？
