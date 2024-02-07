@@ -1,7 +1,7 @@
 +++
 title = '為什麼你應該考慮使用去中心化社群平台 Bluesky'
 date = 2024-02-07T20:21:49+08:00
-draft = true
+draft = false
 featured_image = 'images/sky_1200630.png'
 tags = ['fediverse', '聯邦宇宙']
 +++
