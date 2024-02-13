@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aphorizm.com/</loc>
-    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,18 +17,13 @@
                 href="https://aphorizm.com/"
                 />
   </url><url>
-    <loc>https://aphorizm.com/tags/cyberpunk/</loc>
-    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://aphorizm.com/tags/gaming/</loc>
-    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
+    <loc>https://aphorizm.com/tags/fediverse/</loc>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://aphorizm.com/tags/</loc>
-    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -41,6 +36,26 @@
                 hreflang="zh-tw"
                 href="https://aphorizm.com/tags/"
                 />
+  </url><url>
+    <loc>https://aphorizm.com/post/bluesky_federation/</loc>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aphorizm.com/tags/%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99/</loc>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aphorizm.com/tags/cyberpunk/</loc>
+    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aphorizm.com/tags/gaming/</loc>
+    <lastmod>2024-01-23T11:47:19+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://aphorizm.com/post/cyberpunk2077/</loc>
     <lastmod>2024-01-23T11:47:19+08:00</lastmod>
@@ -119,11 +134,6 @@
   </url><url>
     <loc>https://aphorizm.com/post/%E7%84%A1%E7%A5%9E%E8%AB%96%E8%80%85%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E4%BD%95%E4%B8%8D%E9%96%8B%E9%96%8B%E4%B8%8A%E5%B8%9D%E7%9A%84%E7%8E%A9%E7%AC%91/</loc>
     <lastmod>2023-12-25T14:33:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://aphorizm.com/tags/fediverse/</loc>
-    <lastmod>2023-12-16T15:10:46+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
