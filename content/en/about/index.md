@@ -1,5 +1,5 @@
 ---
-title: "關於"
+title: "About"
 description: "Freedom and Culture."
 featured_image: ''
 menu:
@@ -9,6 +9,6 @@ menu:
 
 Aphorizm = 
 
-文學 // 音樂 // 影視 //
+Literature // Music // Films //
 
-科技 // 社會 // 
+Technology // Social // 
