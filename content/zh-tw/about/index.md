@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-__Aphorizsm__ 可譯為＂格言＂，在希臘文中 __aphorismos( ἀφορισμός )__ 則意謂＂去除限制＂。
+__Aphorism__ 可譯為＂格言＂，在希臘文中 __aphorismos ( ἀφορισμός )__ 則意謂＂去除限制＂。
 
 而 [aphorizm.com](https://aphorizm.com/) 即是為了探索 __自由與文化__ 而生的變體。
 

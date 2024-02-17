@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-__Aphorizm__ is an experimental variant of cultural delimitation __aphorismos( ἀφορισμός )__.
+__Aphorizm__ is an experimental variant of cultural delimitation __aphorismos ( ἀφορισμός )__.
 
 We value privacy and don't intend to send spam email your inbox. Please feel free to subscribe us via RSS.  
 
