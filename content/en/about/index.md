@@ -7,8 +7,14 @@ menu:
     weight: 1
 ---
 
-Aphorizm = 
+__Aphorizm__ is an experimental variant of cultural delimitation __aphorismos( ἀφορισμός )__.
 
-Literature // Music // Films //
+We value privacy and don't intend to send spam email your inbox. Please feel free to subscribe us via RSS.  
 
-Technology // Social // 
+*"The spirit of liberty is the spirit which is not too sure that it is right."*
+
+\- Learned Hand. 
+
+***
+
+Literature // Music // Films // Technology // Social // 

@@ -1,6 +1,6 @@
 ---
 title: "Aphorizm: Self-ownership."
-description: "The spirit of liberty is the spirit which is not too sure that it is right."
+description: "自由的精神即不確定自己是否正確"
 theme_version: '2.8.2'
 cascade:
   featured_image: 
