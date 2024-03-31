@@ -6,8 +6,15 @@
     <description>Recent content in Aphorizm: Self-ownership. on Aphorizm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 07 Feb 2024 20:21:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 20:00:00 +0800</lastBuildDate>
     <atom:link href="https://aphorizm.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify 大裁 1,700 人，帶來音樂資料網站 Every Noise at Once 的驟死</title>
+      <link>https://aphorizm.com/post/deathofeverynoise/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:00 +0800</pubDate>
+      <guid>https://aphorizm.com/post/deathofeverynoise/</guid>
+      <description>2023 年 12 月 Spotify 大規模裁撤 17% 的員工、約 1700 人，而音樂百科網站 Every Noise at Once 的創辦兼開發者 Glenn McDonald 亦赫然入列。 Glen 部署在 Spotify 的程式排程無人維護，所以網站已無法繼續更新且面臨功能隨時全面報廢的風險，目前 Every Noise at Once 的 社群帳號 已經寫著：@glenn_mcdonald in the lingering echoes of my former role as Spotify genre taxonomist and other kinds of alchemy.&#xA;Every Noise at Once 有超過 6,0000 個音樂類別，並提供以下主要功能：&#xA;點選一個音樂類別，e.g. Jazzy DnB，就會聽見一段 Sample，並且可以繼續發現更多同類型的音樂。 看見包含新發行音樂的類別，藉此發現不同音樂。 以上功能如果由 Spotify 提供，相信會大受歡迎，但事實上連類似的方式都不存在。用戶只能利用籠統的 類別 來瀏覽音樂清單，所以 Spotify 依然在很大程度上扮演著 守門人 和 中介者 的角色。就商業上來說，作為一間營利公司，Spotify 當然有權決定功能的開發與否以及資料的運用方式。另外，若持續有大量用戶存取資料，也很可能造成伺服器營運成本上升，進而提升推出此功能的難度；但就使用體驗來講，能夠以這種近似於 逛唱片行 的方式來發現新的音樂，對重度樂迷來說無疑是非常享受的。</description>
+    </item>
     <item>
       <title>為什麼你應該考慮使用去中心化社群平台 Bluesky</title>
       <link>https://aphorizm.com/post/bluesky_federation/</link>
@@ -394,11 +401,11 @@
       <description>秋高氣爽，窗外拂來的涼風，和炎夏中的粘膩完全不同。太陽下山前，天空落下稀稀落落的雨滴、打在外頭雨棚上，響起清亮的撞擊聲，雖遠遠稱不上天籟，卻足以舒緩俗務纏身的困頓。『 來聽 Bill Evans 的鋼琴吧 』，此念頭無端出現在心中。 Bill Evans: The Complete Village Vanguard Recordings, 1961 是我的最愛，更是曠世名盤。 已聽過數百上千次了，但絲毫未感厭倦。&#xA;裡面收錄了 1961 年 6 月 26 日，由 Bill Evans 演奏鋼琴，Paul Motian 打鼓、 Scott LaFaro 彈鋼琴所組成之 Bill Evans Trio，在紐約市傳奇爵士樂酒吧 Village Vanguard 所演出的 5 組完整 Set。著名的另外兩張經典專輯 Sunday at the Village Vanguard 和 Ｗaltz for Derby 便是從這些錄音裡面所精選出來的。 Bill Evans 應不算炫技型的鋼琴家，但他的和弦跨度總是令人心醉。專輯中的 My Foolish Heart 一曲，琴鍵始終作著深情的表述、Bass 則在稍遠處時而親暱的低語，鼓的銅鈸和鼓刷錯落有致、則讓整曲有如綿綿細雨。&#xA;雨雖能令人愁，更可以是與身邊伴侶漫步共舞的背景，又或只閑坐窗邊靜靜欣賞、何嘗不可？ 但要是聽 My Foolish Heart 這樣的標準曲，卻不做版本比較，定樂趣大減。這裡選出兩個版本的錄音，聽了後你會意外同一首曲子竟被詮釋得如此不同： [embed]https://www.youtube.com/watch?v=a2LFVWBmoiw[/embed] My Foolish Heart, 1964 [embed]https://www.youtube.com/watch?v=2Dl4Gteq_Ik[/embed] 遺憾的是，Scott LaFaro 在完成這場錄音後的 11 天後，不幸於車禍中罹難。令人感嘆天才的早逝，且我們終難逃一死。</description>
     </item>
     <item>
-      <title>About</title>
+      <title>關於</title>
       <link>https://aphorizm.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aphorizm.com/about/</guid>
-      <description></description>
+      <description>Aphorism 可譯為＂格言＂，在希臘文中 aphorismos ( ἀφορισμός ) 則意謂＂去除限制＂。&#xA;而 aphorizm.com 即是為了探索 自由與文化 而生的變體。&#xA;自由的精神即不確定自己是否正確 ，出自 Learned Hand 《自由的精神》，我們將持續審視並探尋新的可能。&#xA;文學 // 音樂 // 影視 // 科技 // 社會 // 藝術</description>
     </item>
   </channel>
 </rss>

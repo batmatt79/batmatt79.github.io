@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Aphorizm</title>
+    <title>文章 on Aphorizm</title>
     <link>https://aphorizm.com/post/</link>
-    <description>Recent content in Articles on Aphorizm</description>
+    <description>Recent content in 文章 on Aphorizm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://aphorizm.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify 大裁 1,700 人，帶來音樂資料網站 Every Noise at Once 的驟死</title>
+      <link>https://aphorizm.com/post/deathofeverynoise/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:00 +0800</pubDate>
+      <guid>https://aphorizm.com/post/deathofeverynoise/</guid>
+      <description>2023 年 12 月 Spotify 大規模裁撤 17% 的員工、約 1700 人，而音樂百科網站 Every Noise at Once 的創辦兼開發者 Glenn McDonald 亦赫然入列。 Glen 部署在 Spotify 的程式排程無人維護，所以網站已無法繼續更新且面臨功能隨時全面報廢的風險，目前 Every Noise at Once 的 社群帳號 已經寫著：@glenn_mcdonald in the lingering echoes of my former role as Spotify genre taxonomist and other kinds of alchemy.&#xA;Every Noise at Once 有超過 6,0000 個音樂類別，並提供以下主要功能：&#xA;點選一個音樂類別，e.g. Jazzy DnB，就會聽見一段 Sample，並且可以繼續發現更多同類型的音樂。 看見包含新發行音樂的類別，藉此發現不同音樂。 以上功能如果由 Spotify 提供，相信會大受歡迎，但事實上連類似的方式都不存在。用戶只能利用籠統的 類別 來瀏覽音樂清單，所以 Spotify 依然在很大程度上扮演著 守門人 和 中介者 的角色。就商業上來說，作為一間營利公司，Spotify 當然有權決定功能的開發與否以及資料的運用方式。另外，若持續有大量用戶存取資料，也很可能造成伺服器營運成本上升，進而提升推出此功能的難度；但就使用體驗來講，能夠以這種近似於 逛唱片行 的方式來發現新的音樂，對重度樂迷來說無疑是非常享受的。</description>
+    </item>
     <item>
       <title>為什麼你應該考慮使用去中心化社群平台 Bluesky</title>
       <link>https://aphorizm.com/post/bluesky_federation/</link>

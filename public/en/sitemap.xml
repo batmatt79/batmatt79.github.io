@@ -97,6 +97,20 @@
                 href="https://aphorizm.com/en/post/"
                 />
   </url><url>
+    <loc>https://aphorizm.com/en/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aphorizm.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aphorizm.com/en/about/"
+                />
+  </url><url>
     <loc>https://aphorizm.com/en/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

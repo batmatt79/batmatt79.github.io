@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>音樂 on Aphorizm</title>
-    <link>https://batmatt79.github.io/tags/%E9%9F%B3%E6%A8%82/</link>
-    <description>Recent content in 音樂 on Aphorizm</description>
+    <title>音樂 on </title>
+    <link>/tags/%E9%9F%B3%E6%A8%82/</link>
+    <description>Recent content in 音樂 on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Sun, 21 Jan 2024 10:07:45 +0800</lastBuildDate>
-    <atom:link href="https://batmatt79.github.io/tags/%E9%9F%B3%E6%A8%82/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 20:00:00 +0800</lastBuildDate>
+    <atom:link href="/tags/%E9%9F%B3%E6%A8%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify 大裁 1,700 人，帶來音樂資料網站 Every Noise at Once 的驟死</title>
+      <link>/zh-tw/post/deathofeverynoise/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:00 +0800</pubDate>
+      <guid>/zh-tw/post/deathofeverynoise/</guid>
+      <description>2023 年 12 月 Spotify 大規模裁撤 17% 的員工、約 1700 人，而音樂百科網站 Every Noise at Once 的創辦兼開發者 Glenn McDonald 亦赫然入列。 Glen 部署在 Spotify 的程式排程無人維護，所以網站已無法繼續更新且面臨功能隨時全面報廢的風險，目前 Every Noise at Once 的 社群帳號 已經寫著：@glenn_mcdonald in the lingering echoes of my former role as Spotify genre taxonomist and other kinds of alchemy.&#xA;Every Noise at Once 有超過 6,0000 個音樂類別，並提供以下主要功能：&#xA;點選一個音樂類別，e.g. Jazzy DnB，就會聽見一段 Sample，並且可以繼續發現更多同類型的音樂。 看見包含新發行音樂的類別，藉此發現不同音樂。 以上功能如果由 Spotify 提供，相信會大受歡迎，但事實上連類似的方式都不存在。用戶只能利用籠統的 類別 來瀏覽音樂清單，所以 Spotify 依然在很大程度上扮演著 守門人 和 中介者 的角色。就商業上來說，作為一間營利公司，Spotify 當然有權決定功能的開發與否以及資料的運用方式。另外，若持續有大量用戶存取資料，也很可能造成伺服器營運成本上升，進而提升推出此功能的難度；但就使用體驗來講，能夠以這種近似於 逛唱片行 的方式來發現新的音樂，對重度樂迷來說無疑是非常享受的。</description>
+    </item>
     <item>
       <title>知名音樂評論網站 Pitchfork 將被併入 GQ，令音樂人悲憤。媒體的未來何去何從？</title>
-      <link>https://batmatt79.github.io/post/pitchfork/</link>
+      <link>/zh-tw/post/pitchfork/</link>
       <pubDate>Sun, 21 Jan 2024 10:07:45 +0800</pubDate>
-      <guid>https://batmatt79.github.io/post/pitchfork/</guid>
+      <guid>/zh-tw/post/pitchfork/</guid>
       <description>Pitchfork 是由 Ryan Schreiber 在 1990 年代於美國明尼蘇達創立 ，堅持每天發表唱片評論。起初主要專注在 Indie Rock 領域，其後亦發展到 Hip Hop, Jazz, Pop, Folk 等曲風專輯介紹。當時 Rolling Stone 和 Spin 等音樂媒體都未數位化，自此 Pitchfork 在音樂圈便開始打出名號，進而獲得不可動搖的地位。2015 年，媒體集團康納仕 Condé Nast 收購 Pitchfork。&#xA;本周稍早，總監 Anna Wintour 宣布裁掉包含總編輯的一半人員，並將 Pitchfork 組織納入 GQ 中。 Condé Nast 的狀況也不太樂觀，除了 Pitchfork 之外，預計整個集團可能需要裁撤 300 人，約 5% 的員工。&#xA;雖然音樂界對於 Pitchfork 改組感到不捨，也為被裁撤的員工打抱不平。早在 2019 年，就傳出 Pitchfork 可能為文章加上付費牆（ Paywall ），雖最後沒有付諸實現，但足以顯示冰凍三尺非一日之寒。 在當今媒體生態中，能夠靠訂閱生存的網站並不多。那些被廣告霸佔的版面，往往千瘡百孔到令人不忍直視。&#xA;在營收不振之下，縮編和改組是可以理解的，但決定把一個線上原生的音樂媒體併入紙本起家的時裝雜誌？恐怕不是明智的決定。當然 GQ 已經高度數位化，但仍然不會改變它的本質：收費為品牌和名人服務，而 Pitchfork 是音樂評論網站，強硬的要將其納入男性風尚的範疇，難道不覺得太過狹隘？我無法想像 Pitchfork 屈就委身於小小專欄，但願深受信任的 pitchfork.com 還能繼續經營下去。</description>
     </item>
     <item>
       <title>黑膠唱片推薦 - 日本情色演員池玲子的恍惚世界 ( NSFW )</title>
-      <link>https://batmatt79.github.io/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-%E6%97%A5%E6%9C%AC%E6%83%85%E8%89%B2%E6%BC%94%E5%93%A1%E6%B1%A0%E7%8E%B2%E5%AD%90%E7%9A%84%E6%81%8D%E6%83%9A%E4%B8%96%E7%95%8C-nsfw/</link>
+      <link>/zh-tw/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-%E6%97%A5%E6%9C%AC%E6%83%85%E8%89%B2%E6%BC%94%E5%93%A1%E6%B1%A0%E7%8E%B2%E5%AD%90%E7%9A%84%E6%81%8D%E6%83%9A%E4%B8%96%E7%95%8C-nsfw/</link>
       <pubDate>Fri, 08 Dec 2023 14:41:47 +0000</pubDate>
-      <guid>https://batmatt79.github.io/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-%E6%97%A5%E6%9C%AC%E6%83%85%E8%89%B2%E6%BC%94%E5%93%A1%E6%B1%A0%E7%8E%B2%E5%AD%90%E7%9A%84%E6%81%8D%E6%83%9A%E4%B8%96%E7%95%8C-nsfw/</guid>
+      <guid>/zh-tw/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-%E6%97%A5%E6%9C%AC%E6%83%85%E8%89%B2%E6%BC%94%E5%93%A1%E6%B1%A0%E7%8E%B2%E5%AD%90%E7%9A%84%E6%81%8D%E6%83%9A%E4%B8%96%E7%95%8C-nsfw/</guid>
       <description>呻吟音樂或許過度領先 1970 年代&#xA;池玲子生於 1954 年，可說是日本粉色暴力電影的鼻祖，她演出的 ＂不良姐御伝 豬の鹿お蝶 ＂的血漿大放送還受到 ＂追殺比爾＂的致敬。而 1971 年，年僅 17 歲的她灌錄了生涯唯一的音樂專輯＂恍惚的世界＂，散發出超齡的嫵媚。不知道該說是我太晚出生，還是她太早降臨在這世界。&#xA;有些長輩常說年輕人聽的情歌都是靡靡之音，想必他們沒有聽過這張唱片。昭和感覺的旋律基底上，噴灑了大量潮濕溫熱的呻吟和獨白，散發出濃濃厭世氣味。與其說是俗艷色情，倒不如說是在逃避著什麼。不光是為了歡愉，而是嘗試忘卻現實。等等，還是說性愛本身才是生命，而不是充斥在人間的狗屁倒灶？&#xA;據說＂恍惚的世界＂初次發行時有一千張，目前在市面上已經幾乎絕跡，但近年又有英國和日本公司分別再版，並設計了半透明粉紅色唱片，應該收藏一張來遙想當年。</description>
     </item>
     <item>
       <title>黑膠唱片推薦 - Sable by Japanese Breakfast：自由探索 Sable 沙原世界，伴隨孤獨卻平靜的樂聲氛圍</title>
-      <link>https://batmatt79.github.io/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-sable-by-japanese-breakfast%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2-sable-%E6%B2%99%E5%8E%9F%E4%B8%96%E7%95%8C%E4%BC%B4%E9%9A%A8/</link>
+      <link>/zh-tw/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-sable-by-japanese-breakfast%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2-sable-%E6%B2%99%E5%8E%9F%E4%B8%96%E7%95%8C%E4%BC%B4%E9%9A%A8/</link>
       <pubDate>Thu, 07 Dec 2023 15:15:42 +0000</pubDate>
-      <guid>https://batmatt79.github.io/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-sable-by-japanese-breakfast%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2-sable-%E6%B2%99%E5%8E%9F%E4%B8%96%E7%95%8C%E4%BC%B4%E9%9A%A8/</guid>
+      <guid>/zh-tw/post/%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E6%8E%A8%E8%96%A6-sable-by-japanese-breakfast%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2-sable-%E6%B2%99%E5%8E%9F%E4%B8%96%E7%95%8C%E4%BC%B4%E9%9A%A8/</guid>
       <description>獨立遊戲製作展現獨特美學，並與 Indie 樂團完美結合&#xA;Sable 是英國公司 Shedworks 初試啼聲的遊戲，玩家需要控制主角，駕著懸浮飛車在沙漠背景的開放世界中進行成年儀式，其中沒有明顯線性任務，得靠著和 NPC 對話並且探索環境中的線索來逐步找到自我。但本篇文章主要不是討論遊戲性，而是想探討它那引人入勝的美學。&#xA;聽覺部分由知名樂團 Japanese Breakfast 的主唱 Michelle Zauner 操刀，大量電子合成器聲響穿插著類比打擊樂，如夢似幻的 Pop 風格讓人彷彿踏上孤獨的旅程。“ 好，這是一個洞窟，我會自己在這個洞窟內，有著許多螢火蟲。那聽起來會是如何？ ”，這位韓裔音樂家創作時如此想像著。儘管大多是無人聲的演奏，但由 Michelle 演唱的主題曲 ＂Glider＂有著絕美合聲，而歌詞更是反映人們像著自自由的無盡追尋。&#xA;我在風與未知之間進退兩難&#xA;視覺方面受到法國漫畫家 Jean Giraud aka Mœbius 的影響，有著鮮明的線條流動，也讓這次推薦的黑膠雙唱片組合有著獨特的粉紅色和紫色，無論對於喜歡 Sable 或 Japanese Breakfast 的朋友都是最棒的收藏。</description>
     </item>
   </channel>

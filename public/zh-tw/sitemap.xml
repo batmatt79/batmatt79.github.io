@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aphorizm.com/</loc>
-    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <lastmod>2024-02-13T20:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,13 +17,28 @@
                 href="https://aphorizm.com/"
                 />
   </url><url>
-    <loc>https://aphorizm.com/tags/fediverse/</loc>
-    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <loc>https://aphorizm.com/tags/music/</loc>
+    <lastmod>2024-02-13T20:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aphorizm.com/en/tags/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aphorizm.com/tags/music/"
+                />
+  </url><url>
+    <loc>https://aphorizm.com/post/deathofeverynoise/</loc>
+    <lastmod>2024-02-13T20:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://aphorizm.com/tags/</loc>
-    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <lastmod>2024-02-13T20:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,6 +51,16 @@
                 hreflang="zh-tw"
                 href="https://aphorizm.com/tags/"
                 />
+  </url><url>
+    <loc>https://aphorizm.com/tags/%E9%9F%B3%E6%A8%82/</loc>
+    <lastmod>2024-02-13T20:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aphorizm.com/tags/fediverse/</loc>
+    <lastmod>2024-02-07T20:21:49+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://aphorizm.com/post/bluesky_federation/</loc>
     <lastmod>2024-02-07T20:21:49+08:00</lastmod>
@@ -72,27 +97,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aphorizm.com/tags/music/</loc>
-    <lastmod>2024-01-21T10:07:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aphorizm.com/en/tags/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aphorizm.com/tags/music/"
-                />
-  </url><url>
     <loc>https://aphorizm.com/post/pitchfork/</loc>
-    <lastmod>2024-01-21T10:07:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://aphorizm.com/tags/%E9%9F%B3%E6%A8%82/</loc>
     <lastmod>2024-01-21T10:07:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -767,10 +772,6 @@
                 href="https://aphorizm.com/post/"
                 />
   </url><url>
-    <loc>https://aphorizm.com/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://aphorizm.com/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -783,6 +784,20 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://aphorizm.com/categories/"
+                />
+  </url><url>
+    <loc>https://aphorizm.com/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aphorizm.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aphorizm.com/about/"
                 />
   </url>
 </urlset>

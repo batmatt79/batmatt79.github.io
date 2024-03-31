@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aphorizm: Self-ownership. on </title>
+    <link>/zh-tw/</link>
+    <description>Recent content in Aphorizm: Self-ownership. on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 20:00:00 +0800</lastBuildDate>
+    <atom:link href="/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於</title>
+      <link>/zh-tw/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh-tw/about/</guid>
+      <description>Aphorism 可譯為＂格言＂，在希臘文中 aphorismos ( ἀφορισμός ) 則意謂＂去除限制＂。&#xA;而 aphorizm.com 即是為了探索 自由與文化 而生的變體。&#xA;自由的精神即不確定自己是否正確 ，出自 Learned Hand 《自由的精神》，我們將持續審視並探尋新的可能。&#xA;文學 // 音樂 // 影視 // 科技 // 社會 // 藝術</description>
+    </item>
+  </channel>
+</rss>
