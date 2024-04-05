@@ -3,6 +3,7 @@ title: 'Anti-War - Remarkable  Ukrainian Band: Dakh Daughters'
 date: Fri, 24 Feb 2023 07:40:50 +0000
 draft: false
 tags: ['AntiWar', 'Music', '中文 (台灣)']
+featured_image: "/images/dakhdaughters_1200630.png"
 ---
 
 **Dakh Daughters: Tiny Desk Meets globalFEST 2023**

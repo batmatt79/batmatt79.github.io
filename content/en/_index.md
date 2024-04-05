@@ -1,7 +1,7 @@
 ---
-title: "Aphorizm: Self-ownership."
-description: "The spirit of liberty is the spirit which is not too sure that it is right."
+title: "Aphorizm"
+description: "Freedom. Culture."
 cascade:
-  featured_image: 
+  featured_image: "/images/scuola_di_aten.png"
 ---
 
