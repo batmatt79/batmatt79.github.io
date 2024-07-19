@@ -1,6 +1,6 @@
 paginate = 6
 baseURL = "https://aphorizm.com"
-DefaultContentLanguage = "zh-TW"
+DefaultContentLanguage = "zh-tw"
 sectionPagesMenu = 'main'
 
 [languages]
@@ -8,8 +8,8 @@ sectionPagesMenu = 'main'
     title = "Aphorizm"
     disabled = false
     languageDirection = 'ltr'
-    languageCode = 'zh-TW'
-    contentDir = "content/zh-TW"
+    languageCode = 'zh-tw'
+    contentDir = "content/zh-tw"
     languageName = '中文'
     weight = 1
   [languages.en]
