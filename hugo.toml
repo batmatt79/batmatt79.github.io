@@ -1,5 +1,5 @@
 paginate = 6
-baseURL = "https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/"
+baseURL = "https://aphorizm.com"
 DefaultContentLanguage = "zh-tw"
 sectionPagesMenu = 'main'
 
