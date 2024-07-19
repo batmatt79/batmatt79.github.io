@@ -1,10 +1,14 @@
----
-title: '黑膠唱片推薦 - Sable by Japanese Breakfast：自由探索 Sable 沙原世界，伴隨孤獨卻平靜的樂聲氛圍'
-date: Thu, 07 Dec 2023 15:15:42 +0000
-featured_image: "images/Sable_1200630.png"
-draft: false
-tags: ['Music', 'Vinyl', '中文 (台灣)', '音樂', '黑膠']
----
++++
+title = "黑膠唱片推薦 - Sable by Japanese Breakfast: 自由探索 Sable 沙原世界，伴隨孤獨卻平靜的樂聲氛圍"
+description = "該遊戲音樂由知名樂團 Japanese Breakfast 的主唱 Michelle Zauner 操刀，大量電子合成器聲響穿插著類比打擊樂，如夢似幻的 Pop 風格讓人彷彿踏上孤獨的旅程。"
+date = 2023-12-07T15:15:00+08:00
+draft = false
+image = "/images/Sable_1200630.png"
+imageBig = "/images/Sable_1200630.png"
+categories = ['Music','藝術','音樂','黑膠']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 **獨立遊戲製作展現獨特美學，並與 Indie 樂團完美結合**
 

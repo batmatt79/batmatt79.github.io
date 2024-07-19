@@ -1,9 +1,14 @@
----
-title: '卡繆小說「瘟疫」如果有主題曲，一定是 St. James Infirmary'
-date: Sun, 06 Aug 2023 12:22:33 +0000
-draft: false
-tags: ['Jazz', 'Music', 'Music', '中文 (台灣)']
----
++++
+title = '卡繆小說「瘟疫」如果有主題曲，一定是 St. James Infirmary'
+description = '法國作家卡繆（Albert Camus）的名著「瘟疫」講述 1940 年代阿爾及利亞大城被鼠疫侵襲、終至面臨封城的人性故事。Covid-19 才剛遠離我們不久，回想過去三年的生活，隱約覺得真實世界時常比虛構情節還殘酷且荒謬得多。'
+date = 2023-08-06T12:22:23+08:00
+draft = false
+image = "/images/infirmary_1200630.png"
+imageBig = "/images/infirmary_1200630.png"
+categories = ['Music','Jazz','音樂']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 法國作家卡繆（Albert Camus）的名著「瘟疫」講述 1940 年代阿爾及利亞大城被鼠疫侵襲、終至面臨封城的人性故事。Covid-19 才剛遠離我們不久，回想過去三年的生活，隱約覺得真實世界時常比虛構情節還殘酷且荒謬得多。在小說裡，被隔離的市民還可以到教堂參加講道活動，而實際生活中人們需要避免群聚⋯⋯相關的例子眾多，但完全不影響閱讀，反而給人更廣褒的思考空間。
 
@@ -29,12 +34,11 @@ _But she'll never find a sweet man like me 但她不會找到像我一樣好的�
 
 Louis Armstrong 的滄桑嗓音，演繹出獨特韻味。
 
-https://www.youtube.com/watch?v=QzcpUdBw7gs
+{{< youtube QzcpUdBw7gs >}}
 
 John Batiste 將蕭邦的夜曲改編成 Saint James Infirmary Blues 的開場，饒富創意。
 
-https://www.youtube.com/watch?v=M3qTwHRECmM
+{{< youtube M3qTwHRECmM >}}
 
-Bob Dylan 在 Blind Willie McTell 也採用相同旋律
+Bob Dylan 在 Blind Willie McTell 也曾在現場演出中採用相同旋律，但影片已被上傳者移除。
 
-https://www.youtube.com/watch?v=\_uf5gi3E\_rQ

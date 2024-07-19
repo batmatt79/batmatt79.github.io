@@ -1,9 +1,14 @@
----
-title: '你可能不知道的 Radiohead 反戰歌曲，紀念最後一位去世的一戰士兵'
-date: Sun, 11 Jun 2023 15:32:39 +0000
-draft: false
-tags: ['AntiWar', 'Music', '中文 (台灣)']
----
++++
+title = '你可能不知道的 Radiohead 反戰歌曲，紀念最後一位去世的一戰士兵'
+description = 'Harry Patch 先生是世界上最後一名 WWI （ 一次世界大戰 ）老兵，2009 過世時已經高齡 111 歲，年輕時曾打過我們只能在電影裡看到的壕溝戰。'
+date = 2023-06-11T15:32:39+08:00
+draft = false
+image = "/images/greysky_1200630.png"
+imageBig = "/images/greysky_1200630.png"
+categories = ['AntiWar','Music']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 {{< youtube 59QxnaR8Jl4 >}}
 

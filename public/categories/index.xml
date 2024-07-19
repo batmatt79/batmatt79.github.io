@@ -1,11 +1,404 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Aphorizm</title>
+    <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/</link>
+    <description>Recent content in Categories on Aphorizm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>王家衛</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%8E%8B%E5%AE%B6%E8%A1%9B/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%8E%8B%E5%AE%B6%E8%A1%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>電影</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9B%BB%E5%BD%B1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9B%BB%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/music/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>音樂</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9F%B3%E6%A8%82/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9F%B3%E6%A8%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fediverse</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/fediverse/</link>
+      <pubDate>Wed, 07 Feb 2024 20:21:49 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/fediverse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>聯邦宇宙</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99/</link>
+      <pubDate>Wed, 07 Feb 2024 20:21:49 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%81%AF%E9%82%A6%E5%AE%87%E5%AE%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cyberpunk</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/cyberpunk/</link>
+      <pubDate>Tue, 23 Jan 2024 11:47:19 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/cyberpunk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gaming</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/gaming/</link>
+      <pubDate>Tue, 23 Jan 2024 11:47:19 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>遊戲</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%81%8A%E6%88%B2/</link>
+      <pubDate>Tue, 23 Jan 2024 11:47:19 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%81%8A%E6%88%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/media/</link>
+      <pubDate>Sun, 21 Jan 2024 10:07:45 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>媒體</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%AA%92%E9%AB%94/</link>
+      <pubDate>Sun, 21 Jan 2024 10:07:45 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%AA%92%E9%AB%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comedy</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/comedy/</link>
+      <pubDate>Mon, 25 Dec 2023 14:33:13 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/comedy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/social/</link>
+      <pubDate>Mon, 25 Dec 2023 14:33:13 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>喜劇</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%96%9C%E5%8A%87/</link>
+      <pubDate>Mon, 25 Dec 2023 14:33:13 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%96%9C%E5%8A%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/tech/</link>
+      <pubDate>Sat, 16 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jazz</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/jazz/</link>
+      <pubDate>Thu, 14 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/jazz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/lifestyle/</link>
+      <pubDate>Wed, 13 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>私密保養</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A7%81%E5%AF%86%E4%BF%9D%E9%A4%8A/</link>
+      <pubDate>Wed, 13 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A7%81%E5%AF%86%E4%BF%9D%E9%A4%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>情趣</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%83%85%E8%B6%A3/</link>
+      <pubDate>Wed, 13 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%83%85%E8%B6%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爵士</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%88%B5%E5%A3%AB/</link>
+      <pubDate>Tue, 12 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%88%B5%E5%A3%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/art/</link>
+      <pubDate>Mon, 11 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>寺廟</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%AF%BA%E5%BB%9F/</link>
+      <pubDate>Mon, 11 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%AF%BA%E5%BB%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>京都</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E4%BA%AC%E9%83%BD/</link>
+      <pubDate>Mon, 11 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E4%BA%AC%E9%83%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>枯山水</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%9E%AF%E5%B1%B1%E6%B0%B4/</link>
+      <pubDate>Mon, 11 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%9E%AF%E5%B1%B1%E6%B0%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>藝術</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%97%9D%E8%A1%93/</link>
+      <pubDate>Mon, 11 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%97%9D%E8%A1%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/ai/</link>
+      <pubDate>Sun, 10 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/privacy/</link>
+      <pubDate>Sun, 10 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>人工智慧</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/</link>
+      <pubDate>Sun, 10 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>隱私</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9A%B1%E7%A7%81/</link>
+      <pubDate>Sun, 10 Dec 2023 15:10:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%9A%B1%E7%A7%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AntiWar</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/antiwar/</link>
+      <pubDate>Sat, 09 Dec 2023 14:46:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/antiwar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>反戰</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%88%B0/</link>
+      <pubDate>Sat, 09 Dec 2023 14:46:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%88%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>戰爭</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%88%B0%E7%88%AD/</link>
+      <pubDate>Sat, 09 Dec 2023 14:46:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%88%B0%E7%88%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>昭和</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%98%AD%E5%92%8C/</link>
+      <pubDate>Fri, 08 Dec 2023 14:41:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%98%AD%E5%92%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>黑膠</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%BB%91%E8%86%A0/</link>
+      <pubDate>Fri, 08 Dec 2023 14:41:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E9%BB%91%E8%86%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rock</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/rock/</link>
+      <pubDate>Wed, 06 Dec 2023 14:24:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/rock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soical</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/soical/</link>
+      <pubDate>Tue, 05 Dec 2023 13:12:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/soical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>動物保育</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2/</link>
+      <pubDate>Tue, 05 Dec 2023 13:12:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>社會</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A4%BE%E6%9C%83/</link>
+      <pubDate>Sat, 02 Dec 2023 07:06:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A4%BE%E6%9C%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>恐同</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%81%90%E5%90%8C/</link>
+      <pubDate>Wed, 06 Sep 2023 12:28:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%81%90%E5%90%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小說</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%B0%8F%E8%AA%AA/</link>
+      <pubDate>Sun, 27 Aug 2023 13:52:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%B0%8F%E8%AA%AA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文學</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%96%87%E5%AD%B8/</link>
+      <pubDate>Sun, 27 Aug 2023 13:52:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%96%87%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/movie/</link>
+      <pubDate>Sun, 30 Jul 2023 10:47:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>去中心化</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/</link>
+      <pubDate>Sun, 09 Jul 2023 14:32:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>聯邦網路</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%81%AF%E9%82%A6%E7%B6%B2%E8%B7%AF/</link>
+      <pubDate>Sun, 09 Jul 2023 14:32:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%81%AF%E9%82%A6%E7%B6%B2%E8%B7%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>反歧視</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%AD%A7%E8%A6%96/</link>
+      <pubDate>Sun, 02 Jul 2023 15:53:54 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%AD%A7%E8%A6%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>性別</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%80%A7%E5%88%A5/</link>
+      <pubDate>Sun, 02 Jul 2023 15:53:54 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%80%A7%E5%88%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>反性別歧視</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96/</link>
+      <pubDate>Sun, 04 Jun 2023 14:40:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%8F%8D%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生成式藝術</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%94%9F%E6%88%90%E5%BC%8F%E8%97%9D%E8%A1%93/</link>
+      <pubDate>Sun, 21 May 2023 13:52:02 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%94%9F%E6%88%90%E5%BC%8F%E8%97%9D%E8%A1%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科技</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A7%91%E6%8A%80/</link>
+      <pubDate>Sun, 14 May 2023 14:21:21 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%A7%91%E6%8A%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>停止恐同</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%81%9C%E6%AD%A2%E6%81%90%E5%90%8C/</link>
+      <pubDate>Mon, 24 Apr 2023 08:28:55 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E5%81%9C%E6%AD%A2%E6%81%90%E5%90%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bearbrick</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/bearbrick/</link>
+      <pubDate>Sun, 16 Apr 2023 14:26:49 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/bearbrick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>艾未未</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%89%BE%E6%9C%AA%E6%9C%AA/</link>
+      <pubDate>Sun, 26 Mar 2023 15:01:39 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E8%89%BE%E6%9C%AA%E6%9C%AA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>收藏</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%94%B6%E8%97%8F/</link>
+      <pubDate>Wed, 22 Mar 2023 15:53:07 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E6%94%B6%E8%97%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>玩具</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%8E%A9%E5%85%B7/</link>
+      <pubDate>Wed, 22 Mar 2023 15:53:07 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%8E%A9%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 28 Feb 2023 12:22:59 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aphorizm</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/aphorizm/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/categories/aphorizm/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

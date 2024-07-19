@@ -1,0 +1,14 @@
+[Home]
+other = "Home" 
+
+[About]
+other = "About"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Related"
+
+[pageTitle]
+other = "{{ .Name }} page"

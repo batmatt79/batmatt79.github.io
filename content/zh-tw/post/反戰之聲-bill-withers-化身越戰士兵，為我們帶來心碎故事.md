@@ -1,9 +1,14 @@
----
-title: '反戰之聲 - Bill Withers 化身越戰士兵，為我們帶來心碎故事'
-date: Sun, 19 Feb 2023 23:31:46 +0000
-draft: false
-tags: ['AntiWar', 'Music', '中文 (台灣)']
----
++++
+title = '反戰之聲 - Bill Withers 化身越戰士兵，為我們帶來心碎故事'
+description = '背景是 1970 年代的，美國當時正深陷越南戰爭。有次 Bill Withers 偶遇一位受傷的士兵，便上前問候，接著士兵講述了他的瀕死經驗，讓 Bill Withers 獲得了創作靈感，於是經典於焉誕生，歌名是 「 我不能用左手寫字 」。'
+draft = false
+date = 2023-02-19T23:31:46+08:00
+image = "/images/billwithers_1200630.png"
+imageBig = "/images/billwithers_1200630.png"
+categories = ['AntiWar','Music','反戰','音樂']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 ###### **人類需要更多反戰之聲**
 
@@ -15,7 +20,7 @@ tags: ['AntiWar', 'Music', '中文 (台灣)']
 
 {{< youtube __4_fCgjI74 >}}
 
-大家大概都聽過 ‘ Ain’t no sunshine when she’s gone ‘，但其實 Bill Withers 還寫了很多好歌，包含今天要分享的這首，更是我個人的最愛。
+大家都聽過 ‘ Ain’t no sunshine when she’s gone ‘，但其實 Bill Withers 還寫了很多好歌，包含今天要分享的這首，更是我個人的最愛。
 
 背景是 1970 年代的，美國當時正深陷越南戰爭。有次 Bill Withers 偶遇一位受傷的士兵，便上前問候，接著士兵講述了他的瀕死經驗，讓 Bill Withers 獲得了創作靈感，於是經典於焉誕生，歌名是 「 我不能用左手寫字 」。
 

@@ -1,10 +1,14 @@
----
-title: '私密處的保養也不能忽略 - 男生也能用的 Lip Intimate Cares 保養油'
-date: Wed, 13 Dec 2023 15:50:17 +0000
-featured_image: "images/silk_1200630.png"
-draft: false
-tags: ['Lifestyle', '中文 (台灣)', '情趣', '私密保養']
----
++++
+title = '私密處的保養也不能忽略 - 男生也能用的 Lip Intimate Cares 保養油'
+description = '保養不是女生的專利，注意生活品質的男性也不能冷落下體的門面。由於私密處的皮膚非常敏感，所以除了挑選合適 pH 值的清潔劑之外，也要進行足夠保濕才行，畢竟應該沒有人會覺得乾澀跟性感扯得上關係。'
+date = 2023-12-13T15:10:00+08:00
+draft = false
+image = "/images/silk_1200630.png"
+imageBig = "/images/silk_1200630.png"
+categories = ['Lifestyle','情趣','私密保養']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 保養不是女生的專利，注意生活品質的男性也不能冷落下體的門面。由於私密處的皮膚非常敏感，所以除了挑選合適 pH 值的清潔劑之外，也要進行足夠保濕才行，畢竟應該沒有人會覺得乾澀跟性感扯得上關係。
 

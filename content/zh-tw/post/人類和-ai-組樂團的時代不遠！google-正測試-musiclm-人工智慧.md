@@ -1,17 +1,20 @@
----
-title: '人類和 AI 組樂團的時代不遠！Google 正測試 MusicLM 人工智慧'
-date: Sun, 21 May 2023 13:52:02 +0000
-draft: false
-tags: ['AI', 'Tech', '中文 (台灣)', '人工智慧', '生成式藝術']
----
++++
+title = '人類和 AI 組樂團的時代不遠！Google 正測試 MusicLM 人工智慧'
+description = '今年一月 Google 發表了名為 「 MusicLM 」的人工智慧，它可以接受文字和音樂提示來創作音樂。比方說，收到類似「 適合晚餐派對的靈魂味爵士樂 」或是「 祥和的小提琴旋律配上破音的吉他伴奏 」這樣的提示。'
+date = 2023-05-21T13:52:02+08:00
+draft = false
+image = "/images/robotmusic_1200630.png"
+imageBig = "/images/robotmusic_1200630.png"
+categories = ['AI','Tech','人工智慧','生成式藝術']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 **不是回答問題，而是生成音樂**
 
 今年一月 Google 發表了名為 「 MusicLM 」的人工智慧，它可以接受文字和音樂提示來創作音樂。比方說，收到類似「 適合晚餐派對的靈魂味爵士樂 」或是「 祥和的小提琴旋律配上破音的吉他伴奏 」這樣的提示後，AI 將產生兩段音樂供選擇，並且根據使用者的選擇來優化人工智能模型。如果不想用文字、也可以提供一段音訊，因此不需演奏樂器也能透過哼唱和 AI 溝通。
 
 **MusicLM 現在能完成的事**
-
-
 
 {{< youtube g6FRkAbZPQo >}}
 

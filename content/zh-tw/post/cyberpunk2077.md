@@ -1,9 +1,13 @@
 +++
 title = '玩過 Cyberpunk2077 （幾乎）所有任務之後的人生大哉問'
-date = 2024-01-23T11:47:19+08:00
-featured_image = 'images/cyberpunk_1200630.png'
+description = '想要深度體驗這款遊戲的魅力，就必須花些時間解支線任務，其中包含各種光怪陸離：有人類把身上器官改造成賣春專用、介入人類選舉的 AI、不想一直工作而尋求解脫的 AI 計程車、為了贖罪而想錄下自己死狀並公諸於世的殺人犯 ... 接著就分享其中幾個我個人最喜歡的任務劇情。 '
 draft = false
-tags = ['cyberpunk','gaming','遊戲']
+date = 2024-01-23T11:47:19+08:00
+image = "/images/cyberpunk_1200630.png"
+imageBig = "/images/cyberpunk_1200630.png"
+categories = ['cyberpunk','gaming','遊戲']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
 +++
 
 ### 發售四年之後才完成的遊戲

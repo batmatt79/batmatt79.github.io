@@ -1,0 +1,14 @@
+[Home]
+other = "Home" 
+
+[About]
+other = "關於"
+
+[whatsInThis]
+other = "這個{{ .Type }}中有"
+
+[related]
+other = "相關內容"
+
+[pageTitle]
+other = "{{ .Name }}頁"

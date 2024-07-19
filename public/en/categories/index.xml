@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aphorizm</title>
-    <link>https://batmatt79.github.io/en/categories/</link>
+    <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/</link>
     <description>Recent content in Categories on Aphorizm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://batmatt79.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Feb 2023 11:47:19 +0800</lastBuildDate>
+    <atom:link href="https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AntiWar</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/antiwar/</link>
+      <pubDate>Fri, 24 Feb 2023 11:47:19 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/antiwar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/music/</link>
+      <pubDate>Fri, 24 Feb 2023 11:47:19 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aphorizm</title>
+      <link>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/aphorizm/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0800</pubDate>
+      <guid>https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/en/categories/aphorizm/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

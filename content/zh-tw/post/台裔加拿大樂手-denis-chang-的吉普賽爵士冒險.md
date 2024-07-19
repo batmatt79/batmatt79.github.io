@@ -1,10 +1,14 @@
----
-title: '台裔加拿大樂手 Denis Chang 的吉普賽爵士冒險'
-date: Tue, 12 Dec 2023 13:16:02 +0000
-featured_image: "images/django_1200630.png"
-draft: false
-tags: ['Jazz', 'Music', '中文 (台灣)', '爵士']
----
++++
+title = '台裔加拿大樂手 Denis Chang 的吉普賽爵士冒險'
+description = '出身在加拿大的魁北克省，加上爸媽來自台灣，Denis 從小就接觸各種文化，除了家裡使用的台語，自然也須用上官方的法語和英語，加上他曾在高中時期學習德語，後來也在因緣際會下成為研究吉普賽爵士吉他的重要基礎。Denis 熱愛著名吉他手 Django Reinhardt，而 Django 所屬的吉普賽文化，一般被認為來自印度，幾經西遷之後和西方的文化無可避免的融合後誕生出獨特藝術與音樂。'
+date = 2023-12-12T15:10:00+08:00
+draft = false
+image = "/images/django_1200630.png"
+imageBig = "/images/django_1200630.png"
+categories = ['Jazz','Music','爵士','音樂']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 出身在加拿大的魁北克省，加上爸媽來自台灣，Denis 從小就接觸各種文化，除了家裡使用的台語，自然也須用上官方的法語和英語，加上他曾在高中時期學習德語，後來也在因緣際會下成為研究吉普賽爵士吉他的重要基礎。
 

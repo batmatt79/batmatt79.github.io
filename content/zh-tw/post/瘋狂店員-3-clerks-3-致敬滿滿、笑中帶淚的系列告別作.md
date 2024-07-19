@@ -1,9 +1,15 @@
----
-title: '瘋狂店員 3 ( Clerks 3 ) - 致敬滿滿、笑中帶淚的系列告別作'
-date: Sun, 30 Jul 2023 10:47:29 +0000
-draft: false
-tags: ['Movie', 'Movies', '中文 (台灣)', '藝術', '電影']
----
++++
+title = '瘋狂店員 3 ( Clerks 3 ) - 致敬滿滿、笑中帶淚的系列告別作'
+description = '「 瘋狂店員 （Clerks）」系列第一集上映於 1994，起始拍攝成本只有 7 萬多美元，卻意外斬獲了 400 萬美元的票房，成為 Cult 片和獨立製作的傳奇，導演 Kevin Smith 也因此開啟電影生涯以及 View Askew 與宇宙。'
+date = 2023-07-30T10:47:00+08:00
+draft = false
+image = "/images/clerks_1200630.png"
+imageBig = "/images/clerks_1200630.png"
+categories = ['Movie','藝術','電影']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
+
 {{< youtube M1e5MbzCogo >}}
 
 Clerk 1 Soundtrack
@@ -18,7 +24,7 @@ _It just brings me to laughter_
 
 **儘管票房不盡理想，依舊是成功的系列電影結尾**
 
-「 瘋狂店員 （ Clerks）」系列第一集上映於 1994，起始拍攝成本只有 7 萬多美元，卻意外斬獲了 400 萬美元的票房，成為 Cult 片和獨立製作的傳奇，導演 Kevin Smith 也因此開啟電影生涯以及 View Askew 與宇宙。
+「 瘋狂店員 （Clerks）」系列第一集上映於 1994，起始拍攝成本只有 7 萬多美元，卻意外斬獲了 400 萬美元的票房，成為 Cult 片和獨立製作的傳奇，導演 Kevin Smith 也因此開啟電影生涯以及 View Askew 與宇宙。
 
 續集在 2006 問世，成本提高到 500 萬美金，最後也成功開出近 2.7 億美金的票房。但第三集卻因為資金問題、演員間意見不合等因素而不斷推延，從 2012 年便傳出即將開拍，卻直到 2022 年才真正上映，可說是波折連連。在 700 萬美金的預算下，最後票房卻不到 500 萬，令人稍感遺憾、但這部電影對於系列影迷來說、依舊是成功的告別作，且充滿對友情、愛情和人生的省思。
 

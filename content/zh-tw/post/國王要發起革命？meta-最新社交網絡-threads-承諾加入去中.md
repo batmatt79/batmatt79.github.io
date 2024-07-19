@@ -1,9 +1,15 @@
----
-title: '國王要發起革命？Meta 最新社交網絡 Threads 承諾加入去中心化協定，讓用戶更能掌握自己的資料'
-date: Sun, 09 Jul 2023 14:32:58 +0000
-draft: false
-tags: ['Tech', 'Tech', '中文 (台灣)', '去中心化', '聯邦網路']
----
++++
+title = '國王要發起革命？Meta 最新社交網絡 Threads 承諾加入去中心化協定，讓用戶更能掌握自己的資料'
+description = '如果大家去 App Store 下載時有留意，可以發現 Threads 收集的用戶資料依然多達 14 種，包括金融、健康、瀏覽紀錄、搜尋歷史、地理位置、聯絡人、購物紀錄等都赫然在列（ 就連號稱比較安全的 WhatsApp 都有九種 ）。表示它的商業模式依然是傳統社交媒體的廣告銷售，也就是 『 盡可能把用戶留在平台，收集更多個人資料，然後向有推廣需求的廣告主收取費用 』。'
+date = 2023-07-09T14:32:00+08:00
+draft = false
+image = "/images/star_1200630.png"
+imageBig = "/images/star_1200630.png"
+categories = ['Tech','去中心化','聯邦網路']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
+
 
 **Threads 斬獲近 9000 萬用戶，但依舊收集十四種用戶個人資料**
 

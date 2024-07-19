@@ -1,9 +1,13 @@
 +++
 title = '為什麼你應該考慮使用去中心化社群平台 Bluesky'
-date = 2024-02-07T20:21:49+08:00
+description = '去中心化的聯邦式社群媒體 [Bluesky](https://bsky.app/) 今天開放給所有人註冊使用，不再像一年前需要邀請碼。Bluesky 在創立之初其實不是平台，而是一個現在被稱為 AT Protocol 的協定，由 Jack Dorsey 贊助，原先 Twitter 預計採用此協定，但在 Elon Musk 的收購後合作關係生變，所以 Bluesky 團隊才基於 AT Protocol 開發出社群平台，目前在全球擁有 300 多萬名用戶，並且在向大眾開放之後的 24 小時內額外增加了 55 萬人左右。'
 draft = false
-featured_image = 'images/sky_1200630.png'
-tags = ['fediverse', '聯邦宇宙']
+date = 2024-02-07T20:21:49+08:00
+image = '/images/sky_1200630.png'
+imageBig = '/images/sky_1200630.png'
+categories = ['fediverse','聯邦宇宙']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
 +++
 
 ### 聯邦宇宙生態正式迎來新成員

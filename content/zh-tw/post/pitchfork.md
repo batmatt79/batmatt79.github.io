@@ -1,10 +1,14 @@
----
-title: '知名音樂評論網站 Pitchfork 將被併入 GQ，令音樂人悲憤。媒體的未來何去何從？'
-date: 2024-01-21T10:07:45+08:00
-featured_image: "images/pitchfork_1200630.png"
-draft: false
-tags: ['Music', 'Media', '音樂', '媒體']
----
++++
+title = '知名音樂評論網站 Pitchfork 將被併入 GQ，令音樂人悲憤。媒體的未來何去何從？'
+description = 'Pitchfork 是由 Ryan Schreiber 在 1990 年代於美國明尼蘇達創立 ，堅持每天發表唱片評論。起初主要專注在 Indie Rock 領域，其後亦發展到 Hip Hop, Jazz, Pop, Folk 等曲風專輯介紹。當時 Rolling Stone 和 Spin 等音樂媒體都未數位化，自此 Pitchfork 在音樂圈便開始打出名號，進而獲得不可動搖的地位。2015 年，媒體集團康納仕 Condé Nast 收購 Pitchfork。'
+draft = false
+date = 2024-01-21T10:07:45+08:00
+image = '/images/pitchfork_1200630.png'
+imageBig = '/images/pitchfork_1200630.png'
+categories = ['Music', 'Media', '音樂', '媒體']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 Pitchfork 是由 Ryan Schreiber 在 1990 年代於美國明尼蘇達創立 ，堅持每天發表唱片評論。起初主要專注在 Indie Rock 領域，其後亦發展到 Hip Hop, Jazz, Pop, Folk 等曲風專輯介紹。當時 Rolling Stone 和 Spin 等音樂媒體都未數位化，自此 Pitchfork 在音樂圈便開始打出名號，進而獲得不可動搖的地位。2015 年，媒體集團康納仕 Condé Nast 收購 Pitchfork。
 

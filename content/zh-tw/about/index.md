@@ -1,11 +1,14 @@
----
-title: "關於"
-description: "Freedom and Culture"
-featured_image: ''
-menu:
-  main:
-    weight: 1
----
++++
+title = 'Aphorizm'
+description = '自由與文化'
+draft = false
+date = 2023-02-01T00:00:00+08:00
+image = "/images/scuola_di_aten.png"
+imageBig = "/images/scuola_di_aten.png"
+categories = ['Aphorizm']
+authors = ["Aphorizm"]
+avatar = "/images/logo.png"
++++
 
 __Aphorism__ 可譯為＂格言＂，在希臘文中 __aphorismos ( ἀφορισμός )__ 則意謂＂去除限制＂。
 

@@ -1,9 +1,14 @@
----
-title: '最正向的龐克運動 Straight Edge 直刃族，不菸不酒不吸毒並提倡動物權'
-date: Sun, 13 Aug 2023 15:37:17 +0000
-draft: false
-tags: ['Music', 'Punk', '中文 (台灣)', '龐克']
----
++++
+title = '最正向的龐克運動 Straight Edge 直刃族，不菸不酒不吸毒並提倡動物權'
+description = '1980 年代，美國不少樂團反對飲酒和吸毒的觀念已然成形。其中最具代表性曲目應屬數 Minor Threat 和他們在 1981 發行的七吋 EP：Razor Edge。原來這是一首歌名，並很快演變成整個次文化，也就是後來的直刃族。'
+date = 2023-08-13T15:37:00+08:00
+draft = false
+image = "/images/straightedge_1200630.png"
+imageBig = "/images/straightedge_1200630.png"
+categories = ['Music','音樂']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 每當談到搖滾或龐克音樂等風格，人們往往會將其和菸酒關聯在一起。不知從何時開始，社會大眾往往認為樂手鎮日酩酊大醉。此刻板印象毫不精確。
 

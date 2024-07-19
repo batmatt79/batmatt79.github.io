@@ -1,0 +1,21 @@
+<header>
+  <nav>
+      <ul class='nav-bar'>
+          <li class='logo'><a href='{{ .Site.Home.RelPermalink }}'><img src='/images/logo.png' alt="Aphorizm Logo"/></a></li>
+          <input type='checkbox' id='check' />
+          <span class="menu">
+              <li><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+              <li><a href="/about">About</a></li>
+              {{ if .IsTranslated }}
+              {{ range .Translations }}
+              <li>
+                <a href="{{ .RelPermalink }}">{{ .Language.Lang }}</a>
+              </li>
+              {{ end }}
+              {{ end }}
+              <label for="check" class="close-menu"><i class="fa fa-times"></i></label>    
+          </span>
+        <label for="check" class="open-menu"><i class="fa fa-bars"></i></label>
+      </ul>
+  </nav>
+</header>

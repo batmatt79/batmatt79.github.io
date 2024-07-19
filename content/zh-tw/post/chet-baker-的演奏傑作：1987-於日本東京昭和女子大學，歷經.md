@@ -1,10 +1,14 @@
----
-title: 'Chet Baker 的演奏傑作：1987 於日本東京昭和女子大學，歷經滄桑後的現場演出終成絕響'
-date: Thu, 14 Dec 2023 15:25:13 +0000
-featured_image: "images/chetbaker_1200630.png"
-draft: false
-tags: ['Jazz', 'Music', '中文 (台灣)']
----
++++
+title = 'Chet Baker 的演奏傑作：1987 於日本東京昭和女子大學，歷經滄桑後的現場演出終成絕響'
+description = '出生於 1929 年的 Chet Baker 音樂生涯初期順風順水，在 20 多歲就聲名大噪：小號，歌唱和擬聲都難不倒他，因此甚至曾被拿來和 Miles Davis 和 Dizzy Gillespie 比較，且長相和 James Dean 也有得一拚。雖然歷史給出的定位未能盡如人意，但不減他充滿自毀悲劇性質的傳奇色彩。。'
+date = 2023-12-14T15:10:00+08:00
+draft = false
+image = "/images/chetbaker_1200630.png"
+imageBig = "/images/chetbaker_1200630.png"
+categories = ['Jazz','Music']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 老實說，從沒有決心真正踏入黑膠唱片的世界。但直到我無意間發現了十年來一直尋覓的 Chet Baker in Tokyo 這張傳世經典的再版 LP Record，終於失去了理智。
 

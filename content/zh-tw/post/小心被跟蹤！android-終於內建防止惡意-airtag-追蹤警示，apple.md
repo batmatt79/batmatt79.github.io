@@ -1,9 +1,16 @@
----
-title: '小心被跟蹤！Android 終於內建防止惡意 Airtag 追蹤警示，APPLE 和 GOOGLE 必須強化合作'
-date: Sun, 14 May 2023 14:21:21 +0000
-draft: false
-tags: ['Tech', 'Tech', '中文 (台灣)', '科技']
----
++++
+title = '小心被跟蹤！Android 終於內建防止惡意 Airtag 追蹤警示，Apple 和 Google 必須強化合作'
+description = '在鑰匙或是重要的東西上加一個 AirTag ，就不容易弄丟，本來是好事一樁，但惡意人士常常把他用來跟蹤甚至騷擾。'
+date = 2023-05-14T14:21:21+08:00
+draft = false
+image = "/images/cctv_1200630.png"
+imageBig = "/images/cctv_1200630.png"
+categories = ['Tech','科技']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
+
+
 
 **Airtag：便利工具，但也有黑暗地帶**
 

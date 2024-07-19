@@ -1,9 +1,14 @@
----
-title: '《地平線西域禁地：炙炎海岸》不只是 PS5 大作系列，也是人類社會和失控 AI 的故事'
-date: Sun, 23 Apr 2023 14:50:24 +0000
-draft: false
-tags: ['Gaming', 'Gaming', '中文 (台灣)', '遊戲']
----
++++
+title = '《地平線西域禁地：炙炎海岸》不只是 PS5 大作系列，也是人類社會和失控 AI 的故事'
+description = '故事起源於西元 2060 左右，科學家創造出具有意識的機器人，並且賦予了他們吸收有機生物能量和自我重生、繁殖的功能。也就是說，機器開始可以將植物和動物作為能量來源，所以能夠無止盡的運行下去，並且不斷自我擴張。'
+date = 2023-04-23T14:50:24+08:00
+draft = false
+image = "/images/horizon_turmortusk_1200630.png"
+imageBig = "/images/horizon_turmortusk_1200630.png"
+categories = ['Gaming','遊戲']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 ### 以絕美世界觀為主軸的佳作
 
@@ -29,19 +34,11 @@ tags: ['Gaming', 'Gaming', '中文 (台灣)', '遊戲']
 
 這部遊戲的劇情不僅反映了人類社會的資源搶奪和無謂爭端（美其名是為了宗教和人類，實際上只是爭權奪利），也為大家想像了著名景點的毀滅。無論是這次 Hollywood 和 Las Vegas，都分別在《炙炎海岸》和《禁忌西域》有很多劇情的描寫，讓人有種繁華轉瞬即逝的感嘆。
 
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/HFW-TBS_Key_Art_Website_Crops_HERO-1024x576.jpg)
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/e9f8c292964a8cbf6dbc37abed8d00ebe7da7758-scaled-1-1024x576.webp)
-
 ### 自然物種的科幻化
 
 遊戲中的機械設計也是迷人的地方之一，在《禁忌西域》中有 40 多種，另外追加 4 種是來自 DLC 《炙炎海岸》。其中我最喜歡的是 Termotusk 和 Tallneck，分別是由長毛象和長頸鹿為靈感而來的機器，在遊戲中也佔舉足輕重的地位，尤其 Tallneck 雖然不是敵人，卻是推進劇情不可或缺的要素。
 
 值得一提的是，這次炙炎海岸的新機器，可說是誠意十足。不但可以飛天，還可以潛到水裡。並且承載了主角的羅曼史，讓我這個系列作的鐵粉玩過之後回味無窮。
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/horizon_turmortusk-1024x576.png)
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/horizon_tallneck.png)
 
 ### 地平線系列值不值得玩？
 
@@ -50,5 +47,3 @@ tags: ['Gaming', 'Gaming', '中文 (台灣)', '遊戲']
 至於有些人詬病的問題，像是任務的作業感太重、引導詳細到有點失去開放世界的探索感、劇情對白多到像視覺小說⋯⋯等，雖然很難說完全沒有，但我覺得還是優點多於缺點。同樣作為開放世界，已經一躍成為經典案例的艾爾登法環 ，自然就成為有些人比較的對象。
 
 但如果地平線採用接近艾爾登法環的機制，連任務清單都沒有，許多劇情也需要從文本去反推，雖然自由度大增，但會比較難完整呈現劇情細節和世界觀。但這純粹是敘事方式的不同，不能硬說孰優孰劣。
-
-這次就聊到這邊，希望能夠幫助還沒玩過的朋友了解這引人入勝的遊戲世界觀。歡迎追蹤我們的 [Twitter](https://twitter.com/Aphorizm_XXIII)，談談你對於地平線系列的看法！

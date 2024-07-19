@@ -1,0 +1,10 @@
+{{ if .IsTranslated }}
+<h4>{{ i18n "translations" }}</h4>
+<ul>
+    {{ range .Translation }}
+    <li>
+        <a>{{ .Lang }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

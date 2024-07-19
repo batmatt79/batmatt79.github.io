@@ -1,0 +1,23 @@
+{{- if .Params.toc -}}
+  <div class="relatedContent1">
+    <p>{{ i18n "whatsInThis" . }}</p>
+      {{ .TableOfContents }}
+  </div>
+{{- end -}}
+
+{{ $related := .Site.RegularPages.RelatedIndices . | first 3  }}
+
+{{ with $related }}
+  <div class="relatedContent2">
+    <p>{{ i18n "related" }}</p>
+    <ul>
+	   {{ range . }}
+	     <li id="test">
+          <a href="{{ .RelPermalink }}">
+            {{- .Title -}}
+          </a>
+        </li>
+	    {{ end }}
+    </ul>
+</div>
+{{ end }}

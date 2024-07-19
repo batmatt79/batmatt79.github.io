@@ -1,0 +1,48 @@
+paginate = 6
+baseURL = "https://aphorizm-stage-aphorizm-bd27ece285e8e85197cf5956c141df27b191855.gitlab.io/"
+DefaultContentLanguage = "zh-tw"
+sectionPagesMenu = 'main'
+
+[languages]
+  [languages.zh-tw]
+    title = "Aphorizm"
+    disabled = false
+    languageDirection = 'ltr'
+    languageCode = 'zh-TW'
+    contentDir = "content/zh-TW"
+    languageName = '中文'
+    weight = 1
+  [languages.en]
+    title = "Aphorizm"
+    disabled = false
+    languageDirection = 'ltr'
+    languageCode = 'en-US'
+    contentDir = "content/en-US"
+    languageName = 'English'
+    weight = 2
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "Freedom & Culture"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
+  tag = 'tags'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-6B50W0P5K0' 
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+  [[related.indices]]
+  name = "categories"
+  weight = 100

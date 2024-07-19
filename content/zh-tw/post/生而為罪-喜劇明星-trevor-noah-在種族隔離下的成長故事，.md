@@ -1,9 +1,14 @@
----
-title: '生而為罪 - 喜劇明星 Trevor Noah 在種族隔離下的成長故事，幽默詼諧且發人深省'
-date: Sat, 02 Dec 2023 07:06:10 +0000
-draft: false
-tags: ['Social', '中文 (台灣)', '社會']
----
++++
+title = '生而為罪 - 喜劇明星 Trevor Noah 在種族隔離下的成長故事，幽默詼諧且發人深省'
+description = '由於殖民政權的操弄，當局對於黑人的教育只是希望他們能夠去勞動，一般不但不教授歷史，也會確保各個部族只學自己的母語，讓黑人們無法輕易團結起來對抗壓迫。'
+date = 2023-12-02T07:06:00+08:00
+draft = false
+image = "/images/trevornoah_1200630.png"
+imageBig = "/images/trevornoah_1200630.png"
+categories = ['Social', '社會']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 **由南非移居到北美，是＂旁觀者清＂的寫照**
 

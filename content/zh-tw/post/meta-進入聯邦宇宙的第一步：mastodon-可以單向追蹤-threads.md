@@ -1,10 +1,15 @@
----
-title: 'Meta 進入聯邦宇宙的第一步：Mastodon 可以單向追蹤 Threads'
-date: Sat, 16 Dec 2023 15:10:46 +0000
-featured_image: "images/universe_1200630.png"
-draft: false
-tags: ['fediverse', '聯邦宇宙', 'Tech']
----
++++
+title = 'Meta 進入聯邦宇宙的第一步：Mastodon 可以單向追蹤 Threads'
+description = 'Threads 上面的發文，可以在 Mastodon 等 Fediverse 去中心化平台被發現並且互動，但 Mastodon 用戶還無法追蹤 Threads 的帳號。大家現在已經可以在 Mastodon 上被找到並且追蹤 Instagram CEO Adam Mosseri，他表示 2024 會加入更多聯邦宇宙相關功能。'
+date = 2023-12-16T15:10:00+08:00
+draft = false
+image = "/images/universe_1200630.png"
+imageBig = "/images/universe_1200630.png"
+categories = ['fediverse','聯邦宇宙','Tech']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
+
 
 **Threads 開始踏入聯邦宇宙世界**
 

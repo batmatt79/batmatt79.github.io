@@ -1,9 +1,15 @@
----
-title: 'Hermès 柏金包殞落：殘忍的愛馬仕殺戮、更加無情的資本市場劫掠'
-date: Tue, 05 Dec 2023 13:12:03 +0000
-draft: false
-tags: ['Lifestyle', '中文 (台灣)', '動物保育']
----
++++
+title = 'Hermès 柏金包殞落：殘忍的愛馬仕殺戮、更加無情的資本市場劫掠'
+description = '事實上，已經很少 Luxury House 繼續使用鱷魚皮革。正如 People for the Ethical Treatment of Animals (PETA) 今年聲明，如果確實珍惜 Jane Birkin 所給人們留下的美好，就應該停止生產柏金包。因為大家想要記得她的仁慈，而不是塗炭生靈。'
+date = 2023-12-05T13:12:00+08:00
+draft = false
+image = "/images/peta_hermes_1200630.png"
+imageBig = "/images/peta_hermes_1200630.png"
+categories = ['動物保育', 'Soical']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
+
 {{< vimeo 487892574 >}}
   
 精品殿堂中的佼佼者，萬千時尚愛好者的心之所向：Hermès，1837 年成立的馬具商至今仍由創始家族成員掌握多數股份。要價不斐的柏金包 Birkin Crocs，誰人不想、哪個不愛？但你可曾想過，五光十色耀眼無比，其實是由成千上萬隻鱷魚的屍首上？

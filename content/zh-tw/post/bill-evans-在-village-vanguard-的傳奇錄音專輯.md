@@ -1,12 +1,16 @@
----
-title: 'Bill Evans 在 Village Vanguard 的傳奇錄音專輯'
-date: Tue, 31 Jan 2023 09:19:47 +0000
-draft: false
-tags: ['BillEvans', 'Music', 'Music', '中文 (台灣)']
----
++++
+title = 'Bill Evans 在 Village Vanguard 俱樂部的傳奇錄音專輯'
+description = '秋高氣爽，窗外拂來的涼風，和炎夏中的粘膩完全不同。太陽下山前，天空落下稀稀落落的雨滴、打在外頭雨棚上，響起清亮的撞擊聲，雖遠遠稱不上天籟，卻足以舒緩俗務纏身的困頓。『 來聽 Bill Evans 的鋼琴吧 』。'
+date = 2023-01-31T09:20:00+08:00
+draft = false
+image = "/images/billevans_1200630.png"
+imageBig = "/images/billevans_1200630.png"
+categories = ['Music','音樂','Jazz','爵士']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
-秋高氣爽，窗外拂來的涼風，和炎夏中的粘膩完全不同。太陽下山前，天空落下稀稀落落的雨滴、打在外頭雨棚上，響起清亮的撞擊聲，雖遠遠稱不上天籟，卻足以舒緩俗務纏身的困頓。『 來聽 Bill Evans 的鋼琴吧 』，此念頭無端出現在心中。 Bill Evans: The Complete Village Vanguard Recordings, 1961 是我的最愛，更是曠世名盤。
-已聽過數百上千次了，但絲毫未感厭倦。
+秋高氣爽，窗外拂來的涼風，和炎夏中的粘膩完全不同。太陽下山前，天空落下稀稀落落的雨滴、打在外頭雨棚上，響起清亮的撞擊聲，雖遠遠稱不上天籟，卻足以舒緩俗務纏身的困頓。『 來聽 Bill Evans 的鋼琴吧 』，此念頭無端出現在心中。 Bill Evans: The Complete Village Vanguard Recordings, 1961 是我的最愛，更是曠世名盤。已聽過數百上千次了，但絲毫未感厭倦。
 
 裡面收錄了 1961 年 6 月 26 日，由 Bill Evans 演奏鋼琴，Paul Motian 打鼓、 Scott LaFaro 彈鋼琴所組成之 Bill Evans Trio，在紐約市傳奇爵士樂酒吧 Village Vanguard 所演出的 5 組完整 Set。著名的另外兩張經典專輯 Sunday at the Village Vanguard 和 Ｗaltz for Derby 便是從這些錄音裡面所精選出來的。 Bill Evans 應不算炫技型的鋼琴家，但他的和弦跨度總是令人心醉。專輯中的 My Foolish Heart 一曲，琴鍵始終作著深情的表述、Bass 則在稍遠處時而親暱的低語，鼓的銅鈸和鼓刷錯落有致、則讓整曲有如綿綿細雨。
 

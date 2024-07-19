@@ -1,9 +1,14 @@
----
-title: '沒有廣告的社群網路聯邦 - Mastodon 與分散式社群平台'
-date: Thu, 16 Mar 2023 08:44:15 +0000
-draft: false
-tags: ['Tech', 'fediverse', '聯邦宇宙']
----
++++
+title = '沒有廣告的社群網路聯邦 - Mastodon 與分散式社群平台'
+description = 'Fremium 商業模式正面臨諸多挑戰：隨意對用戶進行情緒實驗、個人資料隱私醜聞、雇用廉價勞工審查言論、特定目的政治操作、壟斷與不公平競爭、降低觸及率（ 俗稱的 Shadow Banning ）等，都是科技巨頭必須正視的問題。'
+date = 2023-03-16T08:44:15+08:00
+draft = false
+image = "/images/galaxy_1200630.png"
+imageBig = "/images/galaxy_1200630.png"
+categories = ['Tech','fediverse','聯邦宇宙']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 ### 歷史軌跡：社群網路發展二十年，是否需探索新的可能？
 

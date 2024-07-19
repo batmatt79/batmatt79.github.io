@@ -1,9 +1,14 @@
----
-title: '黑膠唱片推薦 - 日本情色演員池玲子的恍惚世界 ( NSFW )'
-date: Fri, 08 Dec 2023 14:41:47 +0000
-draft: false
-tags: ['Music', 'Music', '中文 (台灣)', '昭和', '藝術', '音樂', '黑膠']
----
++++
+title = '黑膠唱片推薦 - 日本情色演員池玲子的恍惚世界 ( NSFW )'
+description = '池玲子生於 1954 年，可說是日本粉色暴力電影的鼻祖，她演出的 ＂不良姐御伝 豬の鹿お蝶 ＂的血漿大放送還受到 ＂追殺比爾＂的致敬。而 1971 年，年僅 17 歲的她灌錄了生涯唯一的音樂專輯＂恍惚的世界＂，散發出超齡的嫵媚。'
+date = 2023-12-08T14:41:00+08:00
+draft = false
+image = "/images/ikereiko_1200630.png"
+imageBig = "/images/ikereiko_1200630.png"
+categories = ['Music','昭和','藝術','音樂','黑膠']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 **呻吟音樂或許過度領先 1970 年代**
 

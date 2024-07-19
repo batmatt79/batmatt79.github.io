@@ -1,9 +1,14 @@
----
-title: 'Be@rbrick 聯名藝術 02 - 出自 Coin Parking Delivery 的白井先生 Shira San'
-date: Sun, 16 Apr 2023 14:26:49 +0000
-draft: false
-tags: ['Art', 'Art', 'Bearbrick', '中文 (台灣)']
----
++++
+title = 'Be@rbrick 聯名藝術 02 - 出自 Coin Parking Delivery 的白井先生 Shira San'
+description = 'Coin Pakring Delivery 這隻湛藍色的角色名為白井先生 Shira San、乍看是人偶，實則是半恐龍半外星人的幻想物種，十足新舊揉合，作者認為這樣的概念能夠反映出當下的短暫，也充分用日式動漫風詮釋偏向西式的角色。'
+date = 2023-04-16T14:26:49+08:00
+draft = false
+image = "/images/coinparkingdelivery_1200630.png"
+imageBig = "/images/coinparkingdelivery_1200630.png"
+categories = ['Art','Bearbrick']
+authors = ["Batmatt"]
+avatar = "/images/rabbit.jpg"
++++
 
 **Be@rbrick 和前衛的藝術家們**
 
@@ -22,7 +27,3 @@ Coin Pakring Delivery 這隻湛藍色的角色名為白井先生 Shira San、乍
 當然，本文最重要的是介紹這次 Be@rbrick，發售的是 400% 款式，而且沒有附上 100 % （ 一般買 400% 時都會有一大一小 ）。獨家在 Medicom 的官方商店 2G Tokyo & 2G Osaka 發售，其他店點並沒有鋪貨，不算是太好取得，但獨特的設計讓它依舊是絕佳收藏。
 
 最大的特點除標誌的藍色外，就是它有三張臉孔，分別在頭、身體和雙腳上，還有黃色的耳朵長在手臂和雙腳兩側。背上交叉的一雙手則不知道是哪來的，但考慮到他其實是外星人也就不足為奇了。仔細想想、這些特徵似乎有點嚇人，但卻異常討喜。
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/image.png)
-
-![](https://www.aphorizm.com/wp-content/uploads/2023/04/image-1.png)
