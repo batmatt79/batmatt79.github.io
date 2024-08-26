@@ -1,10 +1,15 @@
----
-title: '京都之遊必訪的京瓷美術館，展出慕尼黑 MUCA 的 Banksy，Kaws，Invader 等都會藝術家展品'
-date: Fri, 01 Dec 2023 15:53:03 +0000
-featured_image: "images/kyocera_1200630.png"
-draft: true
-tags: ['Art', 'Art', '中文 (台灣)', '藝術']
----
++++
+title = '京都之遊必訪的京瓷美術館，展出慕尼黑 MUCA 的 Banksy，Kaws，Invader 等都會藝術家展品'
+description = '除了古色古香的寺廟，京都的美術館也是必訪之處。'
+date = 2023-12-01T00:00:00+08:00
+draft = false
+categories = ['藝術','Art']
+image = "/images/kyocera_1200630.png"
+imageBig = "/images/kyocera_1200630.png"
+authors = "Batmatt"
+avatar = "/images/rabbit.jpg"
++++
+
 
 **百年歷史淬煉出獨特美術館，揉和現代的傳統之美令人流連忘返**
 
