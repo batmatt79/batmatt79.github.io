@@ -4,8 +4,8 @@ description = '終於擺脫石膏，朝正面方向發展。'
 date = 2024-11-30T00:10:00+08:00
 draft = false
 categories = ['復健','阿基里斯腱']
-image = "/images/stairs_1200630.png"
-imageBig = "/images/stairs_1200630.png"
+image = "/images/wheelchair_1200630.png"
+imageBig = "/images/wheelchair_1200630.png"
 authors = "Batmatt"
 avatar = "/images/rabbit.jpg"
 +++
