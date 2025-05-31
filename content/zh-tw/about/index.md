@@ -10,13 +10,7 @@ authors = ["Aphorizm"]
 avatar = "/images/logo.png"
 +++
 
-__Aphorism__ 可譯為＂格言＂，在希臘文中 __aphorismos ( ἀφορισμός )__ 則意謂＂去除限制＂。
-
-而 [aphorizm.com](https://aphorizm.com/) 即是為了探索 __自由與文化__ 而生的變體。
-
-自由的精神即不確定自己是否正確 ，出自 Learned Hand 《自由的精神》，我們將持續審視並探尋新的可能。
+__Aphorism__ 即＂格言＂，亦做希臘文 __aphorismos ( ἀφορισμός )__ 的＂去除限制＂，致力於消弭文化隔閡。
 
 ***
-
-文學 // 音樂 // 影視 // 科技 // 社會 // 藝術
 

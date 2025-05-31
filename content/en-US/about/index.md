@@ -9,11 +9,5 @@ categories = ['Aphorizm']
 authors = ["Aphorizm"]
 avatar = "/images/logo.png"
 +++
-__Aphorizm__ is an experimental variant of cultural delimitation __aphorismos ( ἀφορισμός )__.
+__Aphorizm__ is cultural delimitation __aphorismos ( ἀφορισμός )__.
 
-"The spirit of liberty is the spirit which is not too sure that it is right."
-\- Learned Hand. 
-
-***
-
-Literature // Music // Films // Technology // Social // Art 
